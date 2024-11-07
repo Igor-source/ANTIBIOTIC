@@ -1,0 +1,815 @@
+,target_organism
+0,Staphylococcus aureus
+1,Streptococcus pneumoniae
+2,Streptococcus pyogenes
+3,Escherichia coli
+4,Proteus
+5,Salmonella
+6,Klebsiella
+7,Pseudomonas
+8,Serratia
+9,Enterobacter
+10,Alcaligenes
+11,Neisseria perflava
+12,Staphylococcus
+13,Bacillus
+14,Streptococcus
+15,Sarcina
+16,Klebsiella pneumoniae
+17,Salmonella enterica subsp. enterica serovar Typhimurium
+18,Enterobacter cloacae
+19,Haemophilus influenzae
+20,Citrobacter gillenii
+21,Shouchella clausii
+22,Bacillus clausii
+23,Aeromonas caviae
+24,Citrobacter freundii
+25,Enterobacteriaceae
+26,Streptococcus sp. 'group A'
+27,Streptococcus sp. 'group B'
+28,Streptococcus viridans
+29,Moraxella catarrhalis
+30,Proteus mirabilis
+31,Streptococcus pneumoniae R6
+32,Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)
+33,Rattus norvegicus
+34,Acinetobacter baumannii
+35,Pseudomonas luteola
+36,Pseudomonas aeruginosa
+37,Salmonella enterica
+38,Pseudomonas fluorescens
+39,Providencia stuartii
+40,Prescottella equi
+41,Listeria monocytogenes
+42,Corynebacterium amycolatum
+43,Corynebacterium jeikeium
+44,Corynebacterium pseudodiphtheriticum
+45,Corynebacterium striatum
+46,Corynebacterium urealyticum
+47,Brachyspira pilosicoli
+48,Stenotrophomonas maltophilia
+49,Corynebacterium minutissimum
+50,Corynebacterium xerosis
+51,Pectobacterium atrosepticum
+52,Elizabethkingia meningoseptica
+53,Fluoribacter gormanii
+54,Caulobacter vibrioides
+55,Janthinobacterium lividum
+56,Streptococcus constellatus
+57,Streptococcus oralis
+58,Streptococcus intermedius
+59,Streptococcus mitis
+60,Streptococcus agalactiae
+61,Burkholderia cenocepacia
+62,Acinetobacter genomosp. 3
+63,Acinetobacter pittii
+64,Neisseria meningitidis
+65,Salmonella enterica subsp. enterica serovar Westhampton
+66,Campylobacter jejuni
+67,Campylobacter coli
+68,Chryseobacterium indologenes
+69,Flavobacterium meningosepticum
+70,Yersinia enterocolitica
+71,Staphylococcus epidermidis
+72,Bacillus subtilis
+73,Bacillus cereus
+74,Micrococcus luteus
+75,Bacillus spizizenii
+76,Sus scrofa
+77,Aeromonas hydrophila
+78,Staphylococcus hominis
+79,Enterococcus faecalis
+80,Enterococcus faecium
+81,Severe acute respiratory syndrome coronavirus 2
+82,Staphylococcus lugdunensis
+83,Staphylococcus saprophyticus
+84,Serratia marcescens
+85,Klebsiella aerogenes
+86,Enterococcus sp.
+87,Giardia intestinalis
+88,Shigella sonnei
+89,Klebsiella oxytoca
+90,Trypanosoma brucei
+91,Photinus pyralis
+92,Salmonella enterica subsp. enterica serovar Paratyphi A
+93,Shigella flexneri
+94,Proteus vulgaris
+95,Neisseria gonorrhoeae
+96,Bacteroides fragilis
+97,Fusobacterium varium
+98,Clostridium perfringens
+99,Canis lupus familiaris
+100,Bacillus thuringiensis
+101,Escherichia coli K-12
+102,Enterococcus
+103,Candida parapsilosis
+104,Burkholderia cepacia
+105,Nocardia cyriacigeorgica
+106,Nocardia farcinica
+107,Nocardia otitidiscaviarum
+108,Nocardia nova
+109,Nocardia transvalensis
+110,Nocardia carnea
+111,Nocardia brasiliensis
+112,Nocardia sp.
+113,Mycobacterium tuberculosis
+114,Human immunodeficiency virus 1
+115,Mycoplasmoides pneumoniae
+116,Peptoniphilus asaccharolyticus
+117,Peptostreptococcus anaerobius
+118,Finegoldia magna
+119,Cutibacterium acnes
+120,Streptococcus pasteurianus
+121,Streptococcus equinus
+122,Acinetobacter
+123,Metamycoplasma hominis
+124,Ureaplasma
+125,Plasmodium falciparum
+126,Corynebacterium sp.
+127,Mycolicibacterium smegmatis
+128,Electrophorus electricus
+129,Equus caballus
+130,Leishmania donovani
+131,Trypanosoma cruzi
+132,Trypanosoma brucei rhodesiense
+133,Klebsiella pneumoniae subsp. pneumoniae
+134,Brugia malayi
+135,Enterobacter sp.
+136,[Haemophilus] ducreyi
+137,Bacillus anthracis
+138,Legionella pneumophila
+139,Shigella boydii
+140,Shigella dysenteriae
+141,Leptospira interrogans serovar Portlandvere
+142,Chlamydia trachomatis
+143,Ehrlichia canis
+144,Mycoplasma putrefaciens
+145,Plasmodium berghei
+146,Dialister pneumosintes
+147,Dialister micraerophilus
+148,Dialister propionicifaciens
+149,Dialister invisus
+150,Enterococcus avium
+151,Artemia salina
+152,Chlamydia pneumoniae
+153,Yersinia pestis
+154,Brucella abortus
+155,Brucella suis
+156,Burkholderia pseudomallei
+157,Mycobacteroides abscessus
+158,Mycobacteroides chelonae
+159,Mycolicibacterium peregrinum
+160,Mycolicibacterium fortuitum
+161,Mycolicibacterium mageritense
+162,Saccharomyces cerevisiae
+163,Vibrio sp.
+164,Vibrio vulnificus
+165,Vibrio fluvialis
+166,Vibrio alginolyticus
+167,Vibrio parahaemolyticus
+168,Vibrio cholerae
+169,Plesiomonas shigelloides
+170,Aeromonas sobria
+171,Yersinia pseudotuberculosis
+172,Salmonella enterica subsp. enterica serovar Typhi
+173,Salmonella enterica subsp. enterica serovar Enteritidis
+174,Issatchenkia orientalis
+175,Coxiella burnetii
+176,Cavia porcellus
+177,Oryctolagus cuniculus
+178,Bos taurus
+179,Plasmodium yoelii
+180,Plasmodium vivax
+181,Allium sativum
+182,Salmonella enterica subsp. enterica serovar Abony
+183,Streptococcus gordonii
+184,dengue virus type 2
+185,Litomosoides sigmodontis
+186,Naegleria gruberi
+187,Aspergillus fumigatus
+188,Aspergillus terreus
+189,Aspergillus flavus
+190,Nakaseomyces glabratus
+191,Absidia
+192,Cunninghamella
+193,Mucor
+194,Rhizomucor
+195,Rhizopus
+196,Syncephalastrum
+197,Wickerhamomyces anomalus
+198,Candida albicans
+199,Candida dubliniensis
+200,Pichia kudriavzevii
+201,Candida tropicalis
+202,Aspergillus niger
+203,Rhizopus arrhizus
+204,Rhizopus microsporus var. rhizopodiformis
+205,Rhizopus microsporus var. microsporus
+206,Mucor circinelloides
+207,Lichtheimia corymbifera
+208,Apophysomyces elegans
+209,Colletotrichum graminicola
+210,Trichophyton mentagrophytes
+211,Clavispora lusitaniae
+212,Candida orthopsilosis
+213,Candida metapsilosis
+214,Neosartorya fumigata (Aspergillus fumigatus)
+215,Aspergillus nidulans
+216,Cryptococcus neoformans
+217,Rhodotorula mucilaginosa
+218,Trichosporon
+219,Zygosaccharomyces
+220,Kodamaea ohmeri
+221,Cyberlindnera saturnus
+222,Geotrichum
+223,Kluyveromyces lactis
+224,Pichia norvegensis
+225,Nakaseomyces nivariensis
+226,Pichia fermentans
+227,Candida africana
+228,[Candida] intermedia
+229,[Candida] inconspicua
+230,Cyberlindnera jadinii
+231,Diutina rugosa
+232,Debaryomyces hansenii
+233,Yarrowia lipolytica
+234,Meyerozyma caribbica
+235,[Candida] haemuloni
+236,Kluyveromyces marxianus
+237,Meyerozyma guilliermondii
+238,Fusarium sp.
+239,Fonsecaea pedrosoi
+240,Fonsecaea monophora
+241,Candida
+242,Cryptococcus gattii
+243,Trichosporon inkin
+244,Trichosporon asahii
+245,Geotrichum candidum
+246,Mucor hiemalis
+247,Lomentospora prolificans
+248,Scedosporium apiospermum
+249,Talaromyces marneffei
+250,Penicillium sp.
+251,Fusarium solani
+252,Fusarium oxysporum
+253,Sporothrix schenckii
+254,Curvularia lunata
+255,Curvularia australiensis
+256,Trichophyton rubrum
+257,Paecilomyces variotii
+258,[Candida] zeylanoides
+259,Magnusiomyces capitatus
+260,Cryptococcus neoformans var. neoformans
+261,Naganishia albida
+262,Rhodotorula glutinis
+263,Papiliotrema laurentii
+264,Aspergillus sydowii
+265,Aspergillus versicolor
+266,Aspergillus ochraceus
+267,Aspergillus
+268,Penicillium
+269,Fusarium proliferatum
+270,Fusarium verticillioides
+271,Scopulariopsis brevicaulis
+272,Trichoderma
+273,Fusarium equiseti
+274,Beauveria bassiana
+275,Alternaria alternata
+276,Exophiala dermatitidis
+277,Aureobasidium pullulans
+278,Cladosporium
+279,Cunninghamella bertholletiae
+280,Aspergillus tubingensis
+281,Candida glabrata
+282,Aspergillus brasiliensis
+283,[Candida] auris
+284,Staphylococcus sp.
+285,Streptococcus sp.
+286,Staphylococcus haemolyticus
+287,Mycobacterium avium
+288,Staphylococcus capitis
+289,Streptococcus dysgalactiae
+290,Bacteria
+291,Listeria innocua
+292,Wolbachia
+293,Pasteurella multocida
+294,Priestia megaterium
+295,Providencia rettgeri
+296,Salmonella enterica subsp. enterica serovar Gallinarum
+297,Streptococcus suis
+298,Mycobacterium leprae
+299,Vibrio splendidus
+300,Vibrio anguillarum
+301,Salmonella enterica subsp. enterica
+302,Mycobacterium avium subsp. paratuberculosis
+303,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+304,Influenza A virus
+305,Lysinibacillus sphaericus
+306,Acinetobacter lwoffii
+307,Pseudomonas putida
+308,Acinetobacter calcoaceticus
+309,Bordetella pertussis
+310,Lactococcus lactis
+311,Morganella morganii
+312,Plasmodium yoelii yoelii
+313,Vibrio mimicus
+314,Edwardsiella tarda
+315,Cricetulus griseus
+316,Bacteroides thetaiotaomicron
+317,Prevotella melaninogenica
+318,Bacteroides ovatus
+319,Parabacteroides distasonis
+320,Phocaeicola vulgatus
+321,Fusobacterium nucleatum
+322,Fusobacterium necrophorum
+323,Thomasclavelia ramosa
+324,Clostridium septicum
+325,Clostridium butyricum
+326,Clostridium sporogenes
+327,Anaerococcus prevotii
+328,Lycopus europaeus
+329,Cercopithecidae
+330,Bordetella bronchiseptica
+331,Actinobacillus pleuropneumoniae
+332,Trueperella pyogenes
+333,Acinetobacter sp.
+334,Bacillus subtilis (strain 168)
+335,Macrophomina phaseolina
+336,Trypanosoma brucei brucei
+337,Mycolicibacterium phlei
+338,Rhizoctonia solani
+339,Ralstonia solanacearum
+340,Erwinia
+341,Xanthomonas axonopodis
+342,Xanthomonas oryzae
+343,Fusarium graminearum
+344,Valsa mali
+345,Escherichia coli (strain K12)
+346,Streptococcus mutans
+347,Mammaliicoccus sciuri
+348,Mycobacterium kansasii
+349,Clostridium tetani
+350,Bacillus pumilus
+351,Paracoccus denitrificans
+352,Pseudomonas syringae
+353,Corynebacterium
+354,Aspergillus clavatus
+355,Bacillus sp.
+356,Bacillus amyloliquefaciens
+357,Flavobacterium columnare
+358,Enterococcus hirae
+359,Proteus hauseri
+360,Stachybotrys chartarum
+361,Penicillium chrysogenum
+362,Agaricus bisporus
+363,Shigella
+364,Hathewaya histolytica
+365,Clostridioides difficile
+366,Prevotella disiens
+367,Hoylesella loescheii
+368,Prevotella bivia
+369,Fusobacterium
+370,Veillonella parvula
+371,Peptostreptococcus
+372,Parvimonas micra
+373,Mycobacterium intracellulare
+374,Citrobacter koseri
+375,Moraxella bovis
+376,Helicobacter pylori
+377,Aggregatibacter actinomycetemcomitans
+378,Acinetobacter calcoaceticus subsp. anitratus
+379,Alcaligenes faecalis
+380,Proteus inconstans
+381,Streptococcus sanguinis
+382,Human immunodeficiency virus type 1 group M subtype B (isolate HXB2)(HIV-1)
+383,Mycobacterium
+384,Citrobacter
+385,Chlorocebus sabaeus
+386,Mycolicibacterium vaccae
+387,Mycolicibacterium aurum
+388,Chromobacterium violaceum
+389,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+390,Mycobacterium tuberculosis variant microti
+391,Haemophilus parainfluenzae
+392,Klebsiella sp.
+393,Delftia acidovorans
+394,Staphylococcus cohnii
+395,Staphylococcus warneri
+396,Streptomyces griseus
+397,Mycobacterium tuberculosis variant bovis
+398,Acinetobacter radioresistens
+399,Streptococcus salivarius
+400,Pasteurella sp.
+401,Corynebacterium glutamicum
+402,Mammaliicoccus lentus
+403,Staphylococcus xylosus
+404,Enterobacter hormaechei
+405,Citrobacter amalonaticus
+406,Burkholderia thailandensis
+407,Bacillus licheniformis
+408,Brevibacillus brevis
+409,Serratia sp.
+410,Salmonella enterica subsp. enterica serovar Paratyphi B
+411,Salmonella sp.
+412,Streptomyces albus
+413,Micrococcus
+414,Human alphaherpesvirus 1
+415,Lederbergia lenta
+416,Plesiomonas
+417,Francisella tularensis subsp. tularensis SCHU S4
+418,Raoultella planticola
+419,Acinetobacter haemolyticus
+420,Toxoplasma gondii
+421,Macaca mulatta
+422,Kocuria rhizophila
+423,Trypanosoma brucei gambiense
+424,Burkholderia multivorans
+425,Prevotella intermedia
+426,Francisella tularensis
+427,Rhodococcus erythropolis
+428,Brucella neotomae
+429,Mycobacterium avium complex sp.
+430,Sporobolomyces salmonicolor
+431,Enterococcus casseliflavus
+432,Staphylococcus carnosus
+433,Porphyromonas gingivalis
+434,Proteus sp.
+435,Clostridium beijerinckii
+436,Clostridium botulinum
+437,Bacillus flexus
+438,Pyricularia grisea
+439,Globisporangium ultimum
+440,Mycobacterium marinum
+441,Mycobacterium gordonae
+442,Mycobacterium tuberculosis variant bovis BCG
+443,Papio hamadryas
+444,Mycobacterium xenopi
+445,Mycobacterium ulcerans
+446,Mycolicibacterium diernhoferi
+447,Mesocricetus auratus
+448,Artemia
+449,Shigella sp.
+450,Arthrobacter sp.
+451,Mycobacterium scrofulaceum
+452,Mycobacterium szulgai
+453,Mycobacterium smegmatis
+454,Mycolicibacter terrae
+455,Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155)
+456,Mycobacterium tuberculosis H37Rv
+457,Simian virus 40
+458,Plasmodium falciparum 3D7
+459,Chenopodium album
+460,Sida spinosa
+461,Senna obtusifolia
+462,Ipomoea
+463,Sorghum halepense
+464,Sorghum bicolor
+465,Poa nemoralis
+466,Ambrosia artemisiifolia
+467,Nasturtium officinale
+468,Datura stramonium
+469,Agrobacterium tumefaciens
+470,Pectobacterium carotovorum
+471,Curtobacterium flaccumfaciens
+472,Colletotrichum acutatum
+473,Carassius auratus
+474,Entamoeba histolytica
+475,Influenza A virus (strain A/USSR/90/1977 H1N1)
+476,Cricetinae
+477,Chikungunya virus
+478,Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+479,Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM14847 / LMG 12228 / 1C / PRS 101 / PAO1)
+480,Zika virus
+481,Hepacivirus hominis
+482,Bifidobacterium bifidum
+483,Bifidobacterium breve
+484,Bifidobacterium longum
+485,Bifidobacterium thermophilum
+486,Streptomyces coelicolor
+487,Microbotryum violaceum
+488,Dickeya chrysanthemi
+489,Streptomyces alboniger
+490,Streptomyces acidiscabies
+491,Streptomyces scabiei
+492,Enterococcus gallinarum
+493,Fusobacterium sp.
+494,Prevotella buccae
+495,Prevotella corporis
+496,Hoylesella oralis
+497,Actinomyces sp.
+498,Streptococcus pyogenes serotype M1
+499,Peptostreptococcus sp.
+500,Scytonema hofmannii
+501,Paenibacillus polymyxa
+502,Bacteroides uniformis
+503,Bacteroides caccae
+504,Bacteroides stercoris
+505,Parabacteroides merdae
+506,[Clostridium] innocuum
+507,Clostridium paraputrificum
+508,Clostridium tertium
+509,Propionibacterium
+510,Bacteroides sp.
+511,Fusobacterium mortiferum
+512,Porphyromonas asaccharolytica
+513,Actinomyces israelii
+514,Schaalia meyeri
+515,Actinomyces naeslundii
+516,Eggerthella lenta
+517,Eubacterium sp.
+518,Clostridium novyi
+519,Clostridium cadaveris
+520,Paeniclostridium sordellii
+521,Paraclostridium bifermentans
+522,Eubacterium limosum
+523,Corynebacterium diphtheriae
+524,Streptococcus equi subsp. zooepidemicus
+525,Balamuthia mandrillaris
+526,Chlamydia psittaci 6BC
+527,Porphyromonas levii
+528,Anaerococcus tetradius
+529,Enterocloster clostridioformis
+530,Prevotella nigrescens
+531,Prevotella denticola
+532,Corynebacterium aurimucosum
+533,Corynebacterium accolens
+534,Corynebacterium simulans
+535,Streptococcus dysgalactiae subsp. equisimilis
+536,Porphyromonas somerae
+537,Anaerocolumna aminovalerica
+538,Clostridium malenominatum
+539,Lacrimispora sphenoides
+540,Anaerococcus vaginalis
+541,Veillonella
+542,Collinsella aerofaciens
+543,Lacticaseibacillus casei
+544,Lacticaseibacillus rhamnosus
+545,Lactobacillus acidophilus
+546,Limosilactobacillus fermentum
+547,Lactiplantibacillus plantarum
+548,Limosilactobacillus reuteri
+549,Capnocytophaga ochracea
+550,Staphylococcus intermedius
+551,Ruminococcus sp.
+552,Plasmodium
+553,Fannyhessea vaginae
+554,Gardnerella vaginalis
+555,Mobiluncus curtisii subsp. curtisii
+556,Peptococcus niger
+557,Treponema denticola
+558,Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG12228)
+559,Actinomyces viscosus
+560,Lactobacillus jensenii
+561,Lactobacillus sp.
+562,Clostridium acetobutylicum
+563,Oncorhynchus gorbuscha
+564,Gerbillinae
+565,Enterococcus durans
+566,Staphylococcus simulans
+567,Providencia sp.
+568,Callithrix jacchus
+569,Macaca fascicularis
+570,Middle East respiratory syndrome-related coronavirus (isolate UnitedKingdom/H123990006/2012) (Betacoronavirus England 1) (Humancoronavirus EMC)
+571,Torpedo californica
+572,Human betaherpesvirus 5
+573,Scheffersomyces shehatae
+574,Scedosporium boydii
+575,Lemna minor
+576,Agrostis stolonifera var. palustris
+577,Ustilago maydis
+578,Phytophthora infestans
+579,Pyricularia oryzae
+580,Zymoseptoria tritici
+581,Parastagonospora nodorum
+582,Puccinia recondita
+583,Blumeria graminis f. sp. tritici
+584,Prevotella
+585,Mycoplasmoides gallisepticum
+586,Eikenella corrodens
+587,Pseudomonas sp.
+588,Cronobacter sakazakii
+589,Staphylococcus chromogenes
+590,Pluralibacter gergoviae
+591,Caenorhabditis elegans
+592,Serratia fonticola
+593,Pseudomonas stutzeri
+594,Acinetobacter baylyi
+595,Aeromonas allosaccharophila
+596,Leuconostoc
+597,Rhodococcus sp.
+598,Nocardia asteroides
+599,Staphylococcus aureus subsp. aureus RN4220
+600,Pseudomonas tolaasii
+601,Micrococcus flavus
+602,Pseudomonas savastanoi pv. savastanoi
+603,Geobacillus stearothermophilus
+604,Edwardsiella ictaluri
+605,Kocuria
+606,Bacillus mycoides
+607,Xanthomonas campestris
+608,[Chlorella] fusca
+609,Erwinia amylovora
+610,Siminovitchia fortis
+611,Meloidogyne
+612,Streptomyces
+613,Streptomyces thermovulgaris
+614,Microsporum audouinii
+615,Serratia liquefaciens
+616,Pseudomonas oleovorans
+617,Erysipelothrix rhusiopathiae
+618,Aspergillus ruber
+619,Mycotypha microspora
+620,Pneumocystis carinii
+621,Aeromonas sp.
+622,Campylobacter fetus
+623,Corynebacterium ammoniagenes
+624,Penicillium griseofulvum
+625,Trichoderma harzianum
+626,Actinomadura sp. R39
+627,Carnobacterium divergens
+628,Penicillium expansum
+629,Salmonella newport
+630,Streptococcus pneumoniae (strain ATCC BAA-255 / R6)
+631,Streptococcus sobrinus
+632,Pseudomonas amygdali pv. lachrymans
+633,Xanthomonas vesicatoria
+634,Lactobacillus casei
+635,Saccharomyces cerevisiae S288c
+636,Plasmodium falciparum K1
+637,Lactococcus lactis subsp. lactis (strain IL1403) (Streptococcuslactis)
+638,Plasmodium berghei str. ANKA
+639,Gallus gallus
+640,Cryptosporidium parvum
+641,Babesia gibsoni
+642,Leishmania mexicana
+643,Influenza B virus
+644,Vesicular stomatitis virus
+645,Coxsackievirus B4
+646,Human respirovirus 3
+647,Mammalian orthoreovirus 1
+648,Sindbis virus
+649,Punta Toro virus
+650,Yellow fever virus
+651,Respiratory syncytial virus
+652,Leishmania major
+653,Pneumocystis jirovecii
+654,Hordeum vulgare
+655,Ogataea angusta
+656,Trypanosoma brucei brucei (strain 927/4 GUTat10.1)
+657,Colletotrichum
+658,Botrytis
+659,Benjaminiella poitrasii
+660,Lactobacillus johnsonii
+661,Trichoderma viride
+662,Brevibacterium epidermidis
+663,Dermabacter hominis
+664,Vibrio
+665,Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori)
+666,Photobacterium leiognathi
+667,Nocardia canis
+668,Xanthomonas euvesicatoria pv. sesami
+669,Pseudomonas viridiflava
+670,Paenibacillus larvae
+671,Staphylococcus auricularis
+672,Haemophilus
+673,Trichomonas vaginalis
+674,Leishmania infantum
+675,Leishmania amazonensis
+676,Stutzerimonas stutzeri
+677,Mycolicibacterium flavescens
+678,Escherichia coli O127:H6 (strain E2348/69 / EPEC)
+679,Providencia alcalifaciens
+680,Bacillus thermoproteolyticus
+681,Vibrio proteolyticus
+682,Human immunodeficiency virus 2
+683,Acholeplasma laidlawii
+684,Echinococcus equinus
+685,Yamadazyma tenuis
+686,Staphylococcus aureus (strain Mu50 / ATCC 700699)
+687,Lactobacillus delbrueckii
+688,Lacticaseibacillus paracasei
+689,Phocaeicola dorei
+690,Lactobacillus gasseri
+691,Felis catus
+692,Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)
+693,Schistosoma mansoni
+694,Trichophyton tonsurans
+695,Microsporum
+696,Trichophyton benhamiae
+697,Vibrio harveyi
+698,Escherichia coli (strain SMS-3-5 / SECEC)
+699,Aspergillus sp.
+700,Botrytis fabae
+701,Candida maltosa
+702,Nannizzia gypsea
+703,Epidermophyton floccosum
+704,Trichophyton interdigitale
+705,Cladosporium cladosporioides
+706,Cladosporium herbarum
+707,Streptomyces chartreusis
+708,Rhizomucor miehei
+709,Alternaria solani
+710,Xanthomonas oryzae pv. oryzae
+711,Vibrio aestuarianus
+712,Lasiodiplodia theobromae
+713,Brevundimonas diminuta
+714,Ochrobactrum
+715,Pantoea dispersa
+716,Coxsackievirus B1
+717,Fusarium oxysporum f. sp. cubense
+718,Pseudoalteromonas lipolytica
+719,Pseudoalteromonas ulvae
+720,Paracoccus sp.
+721,Rhodococcus fascians
+722,Pichia kluyveri
+723,Sphingomonas paucimobilis
+724,Trichoplusia ni
+725,Setaria cervi
+726,Dirofilaria immitis
+727,Danio rerio
+728,Neisseria
+729,Arthroderma uncinatum
+730,Nannizzia nana
+731,Paraphyton cookei
+732,Kocuria rosea
+733,Saccharomyces
+734,Trichophyton tonsurans var. sulfureum
+735,Penicillium italicum
+736,Syncephalastrum racemosum
+737,Pseudomonas savastanoi pv. phaseolicola
+738,Sinorhizobium meliloti
+739,Heyndrickxia coagulans
+740,Scopulariopsis
+741,Cricetinae gen. sp.
+742,Microsporum canis
+743,Phialophora verrucosa
+744,Saprolegnia
+745,Histoplasma capsulatum
+746,Hanseniaspora guilliermondii
+747,[Candida] sake
+748,Plasmodium chabaudi
+749,Aliivibrio fischeri
+750,Rhodococcus corynebacterioides
+751,Aspergillus parasiticus
+752,Lipomyces lipofer
+753,Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSCA1100) (Aspergillus fumigatus)
+754,Candida albicans (strain WO-1) (Yeast)
+755,Candida dubliniensis (strain CD36 / CBS 7987 / NCPF 3949 / NRRLY-17841) (Yeast)
+756,Colletotrichum truncatum
+757,Pythium aphanidermatum
+758,Trichophyton longifusum
+759,Aspergillus awamori
+760,Monascus purpureus
+761,Leishmania chagasi
+762,Mucor racemosus
+763,Mus sp.
+764,Trichosporon beigelii
+765,Trichophyton violaceum
+766,Coccidioides immitis
+767,Aspergillus oryzae
+768,Fonsecaea compacta
+769,[Candida] palmioleophila
+770,Apiotrichum loubieri
+771,Cutaneotrichosporon mucoides
+772,Starmerella stellata
+773,Hanseniaspora uvarum
+774,Rhodotorula
+775,Saccharomycopsis
+776,Sporothrix
+777,Sporothrix globosa
+778,Sporothrix albicans
+779,Penicillium citrinum
+780,Curvularia
+781,Malassezia furfur
+782,Fusarium
+783,Exophiala spinifera
+784,Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)
+785,Botrytis cinerea
+786,[Candida] aaseri
+787,Mucor fuscus
+788,Human immunodeficiency virus
+789,Goffeauzyma gastrica
+790,Chrysosporium keratinophilum
+791,Pichia sporocuriosa
+792,Trypanosoma cruzi (strain CL Brener)
+793,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)
+794,Malassezia pachydermatis
+795,Arthrodermataceae
+796,Trichophyton verrucosum
+797,Leishmania braziliensis
+798,Leishmania panamensis
+799,Trichophyton rubrum (strain ATCC MYA-4607 / CBS 118892) (Athlete'sfoot fungus)
+800,Paracoccidioides brasiliensis
+801,Kregervanrija fluxuum
+802,Cryptococcus gattii species complex
+803,Fungi
+804,Mycobacterium simiae
+805,Mycobacterium malmoense
+806,Chlamydia
+807,Naegleria fowleri
+808,Zaire ebolavirus
+809,Pseudomonas aeruginosa PAO1
+810,Yersinia sp.
+811,Aeromonas veronii
+812,Tsukamurella pulmonis
+813,Spinacia oleracea

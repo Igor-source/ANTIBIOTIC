@@ -1,0 +1,815 @@
+Count,RetMax,RetStart,IdList,TranslationSet,TranslationStack,QueryTranslation,ErrorList,WarningList,name
+1,1,0,['1280'],[],"[{'Term': 'staphylococcus aureus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",staphylococcus aureus[All Names],,,Staphylococcus aureus
+1,1,0,['1313'],[],"[{'Term': 'streptococcus pneumoniae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",streptococcus pneumoniae[All Names],,,Streptococcus pneumoniae
+1,1,0,['1314'],[],"[{'Term': 'streptococcus pyogenes[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",streptococcus pyogenes[All Names],,,Streptococcus pyogenes
+1,1,0,['562'],[],"[{'Term': 'escherichia coli[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",escherichia coli[All Names],,,Escherichia coli
+2,2,0,"['210425', '583']",[],"[{'Term': 'Proteus[All Names]', 'Field': 'All Names', 'Count': '2', 'Explode': 'N'}, 'GROUP']",Proteus[All Names],,,Proteus
+1,1,0,['590'],[],"[{'Term': 'Salmonella[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella[All Names],,,Salmonella
+1,1,0,['570'],[],"[{'Term': 'Klebsiella[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Klebsiella[All Names],,,Klebsiella
+1,1,0,['286'],[],"[{'Term': 'Pseudomonas[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pseudomonas[All Names],,,Pseudomonas
+2,2,0,"['2985502', '613']",[],"[{'Term': 'Serratia[All Names]', 'Field': 'All Names', 'Count': '2', 'Explode': 'N'}, 'GROUP']",Serratia[All Names],,,Serratia
+1,1,0,['547'],[],"[{'Term': 'Enterobacter[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Enterobacter[All Names],,,Enterobacter
+1,1,0,['507'],[],"[{'Term': 'Alcaligenes[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Alcaligenes[All Names],,,Alcaligenes
+1,1,0,['33053'],[],"[{'Term': 'Neisseria perflava[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Neisseria perflava[All Names],,,Neisseria perflava
+1,1,0,['1279'],[],"[{'Term': 'Staphylococcus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus[All Names],,,Staphylococcus
+2,2,0,"['55087', '1386']",[],"[{'Term': 'Bacillus[All Names]', 'Field': 'All Names', 'Count': '2', 'Explode': 'N'}, 'GROUP']",Bacillus[All Names],,,Bacillus
+1,1,0,['1301'],[],"[{'Term': 'Streptococcus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus[All Names],,,Streptococcus
+1,1,0,['1266'],[],"[{'Term': 'Sarcina[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Sarcina[All Names],,,Sarcina
+1,1,0,['573'],[],"[{'Term': 'klebsiella pneumoniae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",klebsiella pneumoniae[All Names],,,Klebsiella pneumoniae
+1,1,0,['90371'],[],"[{'Term': 'Salmonella enterica subsp. enterica serovar Typhimurium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella enterica subsp. enterica serovar Typhimurium[All Names],,,Salmonella enterica subsp. enterica serovar Typhimurium
+1,1,0,['550'],[],"[{'Term': 'enterobacter cloacae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",enterobacter cloacae[All Names],,,Enterobacter cloacae
+1,1,0,['727'],[],"[{'Term': 'haemophilus influenzae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",haemophilus influenzae[All Names],,,Haemophilus influenzae
+1,1,0,['67828'],[],"[{'Term': 'Citrobacter gillenii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Citrobacter gillenii[All Names],,,Citrobacter gillenii
+1,1,0,['79880'],[],"[{'Term': 'Shouchella clausii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Shouchella clausii[All Names],,,Shouchella clausii
+1,1,0,['79880'],[],"[{'Term': 'Bacillus clausii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacillus clausii[All Names],,,Bacillus clausii
+1,1,0,['648'],[],"[{'Term': 'Aeromonas caviae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aeromonas caviae[All Names],,,Aeromonas caviae
+1,1,0,['546'],[],"[{'Term': 'citrobacter freundii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",citrobacter freundii[All Names],,,Citrobacter freundii
+1,1,0,['543'],[],"[{'Term': 'Enterobacteriaceae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Enterobacteriaceae[All Names],,,Enterobacteriaceae
+1,1,0,['36470'],[],"[{'Term': ""Streptococcus sp. 'group A'[All Names]"", 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus sp. 'group A'[All Names],,,Streptococcus sp. 'group A'
+1,1,0,['1319'],[],"[{'Term': ""Streptococcus sp. 'group B'[All Names]"", 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus sp. 'group B'[All Names],,,Streptococcus sp. 'group B'
+1,1,0,['78535'],[],"[{'Term': 'streptococcus viridans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",streptococcus viridans[All Names],,,Streptococcus viridans
+1,1,0,['480'],[],"[{'Term': 'moraxella catarrhalis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",moraxella catarrhalis[All Names],,,Moraxella catarrhalis
+1,1,0,['584'],[],"[{'Term': 'proteus mirabilis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",proteus mirabilis[All Names],,,Proteus mirabilis
+1,1,0,['171101'],[],"[{'Term': 'Streptococcus pneumoniae R6[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus pneumoniae R6[All Names],,,Streptococcus pneumoniae R6
+0,0,0,[],[],,Streptococcus pneumoniae serotype 4[All Names] AND (strain ATCC BAA-334/TIGR4[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Streptococcus', 'pneumoniae', 'serotype', '4', 'strain', 'ATCC', 'BAA-334', 'TIGR4']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)
+1,1,0,['10116'],[],"[{'Term': 'rattus norvegicus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",rattus norvegicus[All Names],,,Rattus norvegicus
+1,1,0,['470'],[],"[{'Term': 'acinetobacter baumannii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",acinetobacter baumannii[All Names],,,Acinetobacter baumannii
+1,1,0,['47886'],[],"[{'Term': 'Pseudomonas luteola[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pseudomonas luteola[All Names],,,Pseudomonas luteola
+1,1,0,['287'],[],"[{'Term': 'pseudomonas aeruginosa[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",pseudomonas aeruginosa[All Names],,,Pseudomonas aeruginosa
+1,1,0,['28901'],[],"[{'Term': 'salmonella enterica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",salmonella enterica[All Names],,,Salmonella enterica
+1,1,0,['294'],[],"[{'Term': 'pseudomonas fluorescens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",pseudomonas fluorescens[All Names],,,Pseudomonas fluorescens
+1,1,0,['588'],[],"[{'Term': 'Providencia stuartii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Providencia stuartii[All Names],,,Providencia stuartii
+1,1,0,['43767'],[],"[{'Term': 'Prescottella equi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Prescottella equi[All Names],,,Prescottella equi
+1,1,0,['1639'],[],"[{'Term': 'listeria monocytogenes[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",listeria monocytogenes[All Names],,,Listeria monocytogenes
+1,1,0,['43765'],[],"[{'Term': 'Corynebacterium amycolatum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium amycolatum[All Names],,,Corynebacterium amycolatum
+1,1,0,['38289'],[],"[{'Term': 'Corynebacterium jeikeium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium jeikeium[All Names],,,Corynebacterium jeikeium
+1,1,0,['37637'],[],"[{'Term': 'Corynebacterium pseudodiphtheriticum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium pseudodiphtheriticum[All Names],,,Corynebacterium pseudodiphtheriticum
+1,1,0,['43770'],[],"[{'Term': 'Corynebacterium striatum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium striatum[All Names],,,Corynebacterium striatum
+1,1,0,['43771'],[],"[{'Term': 'Corynebacterium urealyticum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium urealyticum[All Names],,,Corynebacterium urealyticum
+1,1,0,['52584'],[],"[{'Term': 'Brachyspira pilosicoli[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Brachyspira pilosicoli[All Names],,,Brachyspira pilosicoli
+1,1,0,['40324'],[],"[{'Term': 'stenotrophomonas maltophilia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",stenotrophomonas maltophilia[All Names],,,Stenotrophomonas maltophilia
+1,1,0,['38301'],[],"[{'Term': 'Corynebacterium minutissimum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium minutissimum[All Names],,,Corynebacterium minutissimum
+1,1,0,['1725'],[],"[{'Term': 'Corynebacterium xerosis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium xerosis[All Names],,,Corynebacterium xerosis
+1,1,0,['29471'],[],"[{'Term': 'Pectobacterium atrosepticum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pectobacterium atrosepticum[All Names],,,Pectobacterium atrosepticum
+1,1,0,['238'],[],"[{'Term': 'Elizabethkingia meningoseptica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Elizabethkingia meningoseptica[All Names],,,Elizabethkingia meningoseptica
+1,1,0,['464'],[],"[{'Term': 'Fluoribacter gormanii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fluoribacter gormanii[All Names],,,Fluoribacter gormanii
+1,1,0,['155892'],[],"[{'Term': 'Caulobacter vibrioides[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Caulobacter vibrioides[All Names],,,Caulobacter vibrioides
+1,1,0,['29581'],[],"[{'Term': 'Janthinobacterium lividum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Janthinobacterium lividum[All Names],,,Janthinobacterium lividum
+1,1,0,['76860'],[],"[{'Term': 'streptococcus constellatus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",streptococcus constellatus[All Names],,,Streptococcus constellatus
+1,1,0,['1303'],[],"[{'Term': 'streptococcus oralis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",streptococcus oralis[All Names],,,Streptococcus oralis
+1,1,0,['1338'],[],"[{'Term': 'streptococcus intermedius[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",streptococcus intermedius[All Names],,,Streptococcus intermedius
+1,1,0,['28037'],[],"[{'Term': 'streptococcus mitis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",streptococcus mitis[All Names],,,Streptococcus mitis
+1,1,0,['1311'],[],"[{'Term': 'streptococcus agalactiae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",streptococcus agalactiae[All Names],,,Streptococcus agalactiae
+1,1,0,['95486'],[],"[{'Term': 'Burkholderia cenocepacia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Burkholderia cenocepacia[All Names],,,Burkholderia cenocepacia
+1,1,0,['48296'],[],"[{'Term': 'Acinetobacter genomosp. 3[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Acinetobacter genomosp. 3[All Names],,,Acinetobacter genomosp. 3
+1,1,0,['48296'],[],"[{'Term': 'Acinetobacter pittii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Acinetobacter pittii[All Names],,,Acinetobacter pittii
+1,1,0,['487'],[],"[{'Term': 'neisseria meningitidis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",neisseria meningitidis[All Names],,,Neisseria meningitidis
+1,1,0,['356621'],[],"[{'Term': 'Salmonella enterica subsp. enterica serovar Westhampton[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella enterica subsp. enterica serovar Westhampton[All Names],,,Salmonella enterica subsp. enterica serovar Westhampton
+1,1,0,['197'],[],"[{'Term': 'campylobacter jejuni[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",campylobacter jejuni[All Names],,,Campylobacter jejuni
+1,1,0,['195'],[],"[{'Term': 'campylobacter coli[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",campylobacter coli[All Names],,,Campylobacter coli
+1,1,0,['253'],[],"[{'Term': 'Chryseobacterium indologenes[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Chryseobacterium indologenes[All Names],,,Chryseobacterium indologenes
+1,1,0,['238'],[],"[{'Term': 'flavobacterium meningosepticum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",flavobacterium meningosepticum[All Names],,,Flavobacterium meningosepticum
+1,1,0,['630'],[],"[{'Term': 'yersinia enterocolitica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",yersinia enterocolitica[All Names],,,Yersinia enterocolitica
+1,1,0,['1282'],[],"[{'Term': 'staphylococcus epidermidis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",staphylococcus epidermidis[All Names],,,Staphylococcus epidermidis
+1,1,0,['1423'],[],"[{'Term': 'bacillus subtilis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",bacillus subtilis[All Names],,,Bacillus subtilis
+1,1,0,['1396'],[],"[{'Term': 'bacillus cereus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",bacillus cereus[All Names],,,Bacillus cereus
+1,1,0,['1270'],[],"[{'Term': 'micrococcus luteus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",micrococcus luteus[All Names],,,Micrococcus luteus
+1,1,0,['96241'],[],"[{'Term': 'Bacillus spizizenii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacillus spizizenii[All Names],,,Bacillus spizizenii
+1,1,0,['9823'],[],"[{'Term': 'sus scrofa[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",sus scrofa[All Names],,,Sus scrofa
+1,1,0,['644'],[],"[{'Term': 'aeromonas hydrophila[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",aeromonas hydrophila[All Names],,,Aeromonas hydrophila
+1,1,0,['1290'],[],"[{'Term': 'staphylococcus hominis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",staphylococcus hominis[All Names],,,Staphylococcus hominis
+1,1,0,['1351'],[],"[{'Term': 'enterococcus faecalis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",enterococcus faecalis[All Names],,,Enterococcus faecalis
+1,1,0,['1352'],[],"[{'Term': 'enterococcus faecium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",enterococcus faecium[All Names],,,Enterococcus faecium
+1,1,0,['2697049'],[],"[{'Term': 'Severe acute respiratory syndrome coronavirus 2[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Severe acute respiratory syndrome coronavirus 2[All Names],,,Severe acute respiratory syndrome coronavirus 2
+1,1,0,['28035'],[],"[{'Term': 'Staphylococcus lugdunensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus lugdunensis[All Names],,,Staphylococcus lugdunensis
+1,1,0,['29385'],[],"[{'Term': 'Staphylococcus saprophyticus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus saprophyticus[All Names],,,Staphylococcus saprophyticus
+1,1,0,['615'],[],"[{'Term': 'serratia marcescens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",serratia marcescens[All Names],,,Serratia marcescens
+1,1,0,['548'],[],"[{'Term': 'klebsiella aerogenes[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",klebsiella aerogenes[All Names],,,Klebsiella aerogenes
+1,1,0,['35783'],[],"[{'Term': 'Enterococcus sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Enterococcus sp.[All Names],,,Enterococcus sp.
+1,1,0,['5741'],[],"[{'Term': 'giardia intestinalis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",giardia intestinalis[All Names],,,Giardia intestinalis
+1,1,0,['624'],[],"[{'Term': 'shigella sonnei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",shigella sonnei[All Names],,,Shigella sonnei
+1,1,0,['571'],[],"[{'Term': 'klebsiella oxytoca[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",klebsiella oxytoca[All Names],,,Klebsiella oxytoca
+1,1,0,['5691'],[],"[{'Term': 'trypanosoma brucei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",trypanosoma brucei[All Names],,,Trypanosoma brucei
+1,1,0,['7054'],[],"[{'Term': 'Photinus pyralis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Photinus pyralis[All Names],,,Photinus pyralis
+1,1,0,['54388'],[],"[{'Term': 'Salmonella enterica subsp. enterica serovar Paratyphi A[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella enterica subsp. enterica serovar Paratyphi A[All Names],,,Salmonella enterica subsp. enterica serovar Paratyphi A
+1,1,0,['623'],[],"[{'Term': 'shigella flexneri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",shigella flexneri[All Names],,,Shigella flexneri
+1,1,0,['585'],[],"[{'Term': 'proteus vulgaris[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",proteus vulgaris[All Names],,,Proteus vulgaris
+1,1,0,['485'],[],"[{'Term': 'neisseria gonorrhoeae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",neisseria gonorrhoeae[All Names],,,Neisseria gonorrhoeae
+1,1,0,['817'],[],"[{'Term': 'bacteroides fragilis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",bacteroides fragilis[All Names],,,Bacteroides fragilis
+1,1,0,['856'],[],"[{'Term': 'Fusobacterium varium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusobacterium varium[All Names],,,Fusobacterium varium
+1,1,0,['1502'],[],"[{'Term': 'clostridium perfringens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",clostridium perfringens[All Names],,,Clostridium perfringens
+1,1,0,['9615'],[],"[{'Term': 'Canis lupus familiaris[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Canis lupus familiaris[All Names],,,Canis lupus familiaris
+1,1,0,['1428'],[],"[{'Term': 'bacillus thuringiensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",bacillus thuringiensis[All Names],,,Bacillus thuringiensis
+1,1,0,['83333'],[],"[{'Term': 'Escherichia coli K-12[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Escherichia coli K-12[All Names],,,Escherichia coli K-12
+1,1,0,['1350'],[],"[{'Term': 'Enterococcus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Enterococcus[All Names],,,Enterococcus
+1,1,0,['5480'],[],"[{'Term': 'Candida parapsilosis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Candida parapsilosis[All Names],,,Candida parapsilosis
+1,1,0,['292'],[],"[{'Term': 'burkholderia cepacia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",burkholderia cepacia[All Names],,,Burkholderia cepacia
+1,1,0,['135487'],[],"[{'Term': 'Nocardia cyriacigeorgica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Nocardia cyriacigeorgica[All Names],,,Nocardia cyriacigeorgica
+1,1,0,['37329'],[],"[{'Term': 'Nocardia farcinica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Nocardia farcinica[All Names],,,Nocardia farcinica
+1,1,0,['1823'],[],"[{'Term': 'Nocardia otitidiscaviarum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Nocardia otitidiscaviarum[All Names],,,Nocardia otitidiscaviarum
+1,1,0,['37330'],[],"[{'Term': 'Nocardia nova[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Nocardia nova[All Names],,,Nocardia nova
+1,1,0,['37333'],[],"[{'Term': 'Nocardia transvalensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Nocardia transvalensis[All Names],,,Nocardia transvalensis
+1,1,0,['37328'],[],"[{'Term': 'Nocardia carnea[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Nocardia carnea[All Names],,,Nocardia carnea
+1,1,0,['37326'],[],"[{'Term': 'Nocardia brasiliensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Nocardia brasiliensis[All Names],,,Nocardia brasiliensis
+1,1,0,['1821'],[],"[{'Term': 'Nocardia sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Nocardia sp.[All Names],,,Nocardia sp.
+1,1,0,['1773'],[],"[{'Term': 'mycobacterium tuberculosis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",mycobacterium tuberculosis[All Names],,,Mycobacterium tuberculosis
+1,1,0,['11676'],[],"[{'Term': 'human immunodeficiency virus 1[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",human immunodeficiency virus 1[All Names],,,Human immunodeficiency virus 1
+1,1,0,['2104'],[],"[{'Term': 'Mycoplasmoides pneumoniae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycoplasmoides pneumoniae[All Names],,,Mycoplasmoides pneumoniae
+1,1,0,['1258'],[],"[{'Term': 'Peptoniphilus asaccharolyticus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Peptoniphilus asaccharolyticus[All Names],,,Peptoniphilus asaccharolyticus
+1,1,0,['1261'],[],"[{'Term': 'Peptostreptococcus anaerobius[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Peptostreptococcus anaerobius[All Names],,,Peptostreptococcus anaerobius
+1,1,0,['1260'],[],"[{'Term': 'Finegoldia magna[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Finegoldia magna[All Names],,,Finegoldia magna
+1,1,0,['1747'],[],"[{'Term': 'Cutibacterium acnes[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cutibacterium acnes[All Names],,,Cutibacterium acnes
+1,1,0,['197614'],[],"[{'Term': 'Streptococcus pasteurianus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus pasteurianus[All Names],,,Streptococcus pasteurianus
+1,1,0,['1335'],[],"[{'Term': 'Streptococcus equinus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus equinus[All Names],,,Streptococcus equinus
+1,1,0,['469'],[],"[{'Term': 'Acinetobacter[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Acinetobacter[All Names],,,Acinetobacter
+1,1,0,['2098'],[],"[{'Term': 'Metamycoplasma hominis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Metamycoplasma hominis[All Names],,,Metamycoplasma hominis
+1,1,0,['2129'],[],"[{'Term': 'Ureaplasma[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Ureaplasma[All Names],,,Ureaplasma
+1,1,0,['5833'],[],"[{'Term': 'plasmodium falciparum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",plasmodium falciparum[All Names],,,Plasmodium falciparum
+1,1,0,['1720'],[],"[{'Term': 'Corynebacterium sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium sp.[All Names],,,Corynebacterium sp.
+1,1,0,['1772'],[],"[{'Term': 'Mycolicibacterium smegmatis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycolicibacterium smegmatis[All Names],,,Mycolicibacterium smegmatis
+1,1,0,['8005'],[],"[{'Term': 'electrophorus electricus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",electrophorus electricus[All Names],,,Electrophorus electricus
+1,1,0,['9796'],[],"[{'Term': 'equus caballus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",equus caballus[All Names],,,Equus caballus
+1,1,0,['5661'],[],"[{'Term': 'leishmania donovani[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",leishmania donovani[All Names],,,Leishmania donovani
+1,1,0,['5693'],[],"[{'Term': 'trypanosoma cruzi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",trypanosoma cruzi[All Names],,,Trypanosoma cruzi
+1,1,0,['31286'],[],"[{'Term': 'trypanosoma brucei rhodesiense[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",trypanosoma brucei rhodesiense[All Names],,,Trypanosoma brucei rhodesiense
+1,1,0,['72407'],[],"[{'Term': 'Klebsiella pneumoniae subsp. pneumoniae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Klebsiella pneumoniae subsp. pneumoniae[All Names],,,Klebsiella pneumoniae subsp. pneumoniae
+1,1,0,['6279'],[],"[{'Term': 'brugia malayi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",brugia malayi[All Names],,,Brugia malayi
+1,1,0,['42895'],[],"[{'Term': 'Enterobacter sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Enterobacter sp.[All Names],,,Enterobacter sp.
+0,0,0,[],[],,Haemophilus[All Names] AND ducreyi[All Names],"{'FieldNotFound': [], 'PhraseNotFound': ['ducreyi']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",[Haemophilus] ducreyi
+1,1,0,['1392'],[],"[{'Term': 'bacillus anthracis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",bacillus anthracis[All Names],,,Bacillus anthracis
+1,1,0,['446'],[],"[{'Term': 'legionella pneumophila[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",legionella pneumophila[All Names],,,Legionella pneumophila
+1,1,0,['621'],[],"[{'Term': 'shigella boydii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",shigella boydii[All Names],,,Shigella boydii
+1,1,0,['622'],[],"[{'Term': 'shigella dysenteriae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",shigella dysenteriae[All Names],,,Shigella dysenteriae
+1,1,0,['508528'],[],"[{'Term': 'Leptospira interrogans serovar Portlandvere[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Leptospira interrogans serovar Portlandvere[All Names],,,Leptospira interrogans serovar Portlandvere
+1,1,0,['813'],[],"[{'Term': 'chlamydia trachomatis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",chlamydia trachomatis[All Names],,,Chlamydia trachomatis
+1,1,0,['944'],[],"[{'Term': 'ehrlichia canis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",ehrlichia canis[All Names],,,Ehrlichia canis
+1,1,0,['2123'],[],"[{'Term': 'Mycoplasma putrefaciens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycoplasma putrefaciens[All Names],,,Mycoplasma putrefaciens
+1,1,0,['5821'],[],"[{'Term': 'plasmodium berghei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",plasmodium berghei[All Names],,,Plasmodium berghei
+1,1,0,['39950'],[],"[{'Term': 'Dialister pneumosintes[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Dialister pneumosintes[All Names],,,Dialister pneumosintes
+1,1,0,['309120'],[],"[{'Term': 'Dialister micraerophilus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Dialister micraerophilus[All Names],,,Dialister micraerophilus
+1,1,0,['308994'],[],"[{'Term': 'Dialister propionicifaciens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Dialister propionicifaciens[All Names],,,Dialister propionicifaciens
+1,1,0,['218538'],[],"[{'Term': 'Dialister invisus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Dialister invisus[All Names],,,Dialister invisus
+1,1,0,['33945'],[],"[{'Term': 'Enterococcus avium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Enterococcus avium[All Names],,,Enterococcus avium
+1,1,0,['85549'],[],"[{'Term': 'Artemia salina[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Artemia salina[All Names],,,Artemia salina
+1,1,0,['83558'],[],"[{'Term': 'chlamydia pneumoniae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",chlamydia pneumoniae[All Names],,,Chlamydia pneumoniae
+1,1,0,['632'],[],"[{'Term': 'yersinia pestis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",yersinia pestis[All Names],,,Yersinia pestis
+1,1,0,['235'],[],"[{'Term': 'brucella abortus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",brucella abortus[All Names],,,Brucella abortus
+1,1,0,['29461'],[],"[{'Term': 'brucella suis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",brucella suis[All Names],,,Brucella suis
+1,1,0,['28450'],[],"[{'Term': 'burkholderia pseudomallei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",burkholderia pseudomallei[All Names],,,Burkholderia pseudomallei
+1,1,0,['36809'],[],"[{'Term': 'Mycobacteroides abscessus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycobacteroides abscessus[All Names],,,Mycobacteroides abscessus
+1,1,0,['1774'],[],"[{'Term': 'Mycobacteroides chelonae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycobacteroides chelonae[All Names],,,Mycobacteroides chelonae
+1,1,0,['43304'],[],"[{'Term': 'Mycolicibacterium peregrinum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycolicibacterium peregrinum[All Names],,,Mycolicibacterium peregrinum
+1,1,0,['1766'],[],"[{'Term': 'Mycolicibacterium fortuitum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycolicibacterium fortuitum[All Names],,,Mycolicibacterium fortuitum
+1,1,0,['53462'],[],"[{'Term': 'Mycolicibacterium mageritense[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycolicibacterium mageritense[All Names],,,Mycolicibacterium mageritense
+1,1,0,['4932'],[],"[{'Term': 'saccharomyces cerevisiae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",saccharomyces cerevisiae[All Names],,,Saccharomyces cerevisiae
+1,1,0,['678'],[],"[{'Term': 'Vibrio sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Vibrio sp.[All Names],,,Vibrio sp.
+1,1,0,['672'],[],"[{'Term': 'vibrio vulnificus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",vibrio vulnificus[All Names],,,Vibrio vulnificus
+1,1,0,['676'],[],"[{'Term': 'Vibrio fluvialis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Vibrio fluvialis[All Names],,,Vibrio fluvialis
+1,1,0,['663'],[],"[{'Term': 'Vibrio alginolyticus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Vibrio alginolyticus[All Names],,,Vibrio alginolyticus
+1,1,0,['670'],[],"[{'Term': 'vibrio parahaemolyticus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",vibrio parahaemolyticus[All Names],,,Vibrio parahaemolyticus
+1,1,0,['666'],[],"[{'Term': 'vibrio cholerae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",vibrio cholerae[All Names],,,Vibrio cholerae
+1,1,0,['703'],[],"[{'Term': 'plesiomonas shigelloides[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",plesiomonas shigelloides[All Names],,,Plesiomonas shigelloides
+1,1,0,['646'],[],"[{'Term': 'Aeromonas sobria[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aeromonas sobria[All Names],,,Aeromonas sobria
+1,1,0,['633'],[],"[{'Term': 'yersinia pseudotuberculosis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",yersinia pseudotuberculosis[All Names],,,Yersinia pseudotuberculosis
+1,1,0,['90370'],[],"[{'Term': 'Salmonella enterica subsp. enterica serovar Typhi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella enterica subsp. enterica serovar Typhi[All Names],,,Salmonella enterica subsp. enterica serovar Typhi
+1,1,0,['149539'],[],"[{'Term': 'Salmonella enterica subsp. enterica serovar Enteritidis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella enterica subsp. enterica serovar Enteritidis[All Names],,,Salmonella enterica subsp. enterica serovar Enteritidis
+1,1,0,['4909'],[],"[{'Term': 'Issatchenkia orientalis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Issatchenkia orientalis[All Names],,,Issatchenkia orientalis
+1,1,0,['777'],[],"[{'Term': 'coxiella burnetii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",coxiella burnetii[All Names],,,Coxiella burnetii
+1,1,0,['10141'],[],"[{'Term': 'Cavia porcellus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cavia porcellus[All Names],,,Cavia porcellus
+1,1,0,['9986'],[],"[{'Term': 'oryctolagus cuniculus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",oryctolagus cuniculus[All Names],,,Oryctolagus cuniculus
+1,1,0,['9913'],[],"[{'Term': 'bos taurus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",bos taurus[All Names],,,Bos taurus
+1,1,0,['5861'],[],"[{'Term': 'plasmodium yoelii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",plasmodium yoelii[All Names],,,Plasmodium yoelii
+1,1,0,['5855'],[],"[{'Term': 'plasmodium vivax[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",plasmodium vivax[All Names],,,Plasmodium vivax
+1,1,0,['4682'],[],"[{'Term': 'allium sativum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",allium sativum[All Names],,,Allium sativum
+1,1,0,['29482'],[],"[{'Term': 'Salmonella enterica subsp. enterica serovar Abony[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella enterica subsp. enterica serovar Abony[All Names],,,Salmonella enterica subsp. enterica serovar Abony
+1,1,0,['1302'],[],"[{'Term': 'Streptococcus gordonii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus gordonii[All Names],,,Streptococcus gordonii
+1,1,0,['11060'],[],"[{'Term': 'dengue virus type 2[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",dengue virus type 2[All Names],,,dengue virus type 2
+1,1,0,['42156'],[],"[{'Term': 'Litomosoides sigmodontis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Litomosoides sigmodontis[All Names],,,Litomosoides sigmodontis
+1,1,0,['5762'],[],"[{'Term': 'Naegleria gruberi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Naegleria gruberi[All Names],,,Naegleria gruberi
+1,1,0,['746128'],[],"[{'Term': 'aspergillus fumigatus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",aspergillus fumigatus[All Names],,,Aspergillus fumigatus
+1,1,0,['33178'],[],"[{'Term': 'Aspergillus terreus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aspergillus terreus[All Names],,,Aspergillus terreus
+1,1,0,['5059'],[],"[{'Term': 'aspergillus flavus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",aspergillus flavus[All Names],,,Aspergillus flavus
+1,1,0,['5478'],[],"[{'Term': 'Nakaseomyces glabratus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Nakaseomyces glabratus[All Names],,,Nakaseomyces glabratus
+1,1,0,['4828'],[],"[{'Term': 'Absidia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Absidia[All Names],,,Absidia
+1,1,0,['4852'],[],"[{'Term': 'Cunninghamella[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cunninghamella[All Names],,,Cunninghamella
+1,1,0,['4830'],[],"[{'Term': 'Mucor[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mucor[All Names],,,Mucor
+1,1,0,['4838'],[],"[{'Term': 'Rhizomucor[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Rhizomucor[All Names],,,Rhizomucor
+1,1,0,['4842'],[],"[{'Term': 'Rhizopus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Rhizopus[All Names],,,Rhizopus
+1,1,0,['13705'],[],"[{'Term': 'Syncephalastrum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Syncephalastrum[All Names],,,Syncephalastrum
+1,1,0,['4927'],[],"[{'Term': 'Wickerhamomyces anomalus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Wickerhamomyces anomalus[All Names],,,Wickerhamomyces anomalus
+1,1,0,['5476'],[],"[{'Term': 'candida albicans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",candida albicans[All Names],,,Candida albicans
+1,1,0,['42374'],[],"[{'Term': 'Candida dubliniensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Candida dubliniensis[All Names],,,Candida dubliniensis
+1,1,0,['4909'],[],"[{'Term': 'Pichia kudriavzevii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pichia kudriavzevii[All Names],,,Pichia kudriavzevii
+1,1,0,['5482'],[],"[{'Term': 'candida tropicalis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",candida tropicalis[All Names],,,Candida tropicalis
+1,1,0,['5061'],[],"[{'Term': 'aspergillus niger[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",aspergillus niger[All Names],,,Aspergillus niger
+1,1,0,['64495'],[],"[{'Term': 'Rhizopus arrhizus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Rhizopus arrhizus[All Names],,,Rhizopus arrhizus
+1,1,0,['90259'],[],"[{'Term': 'Rhizopus microsporus var. rhizopodiformis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Rhizopus microsporus var. rhizopodiformis[All Names],,,Rhizopus microsporus var. rhizopodiformis
+1,1,0,['86635'],[],"[{'Term': 'Rhizopus microsporus var. microsporus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Rhizopus microsporus var. microsporus[All Names],,,Rhizopus microsporus var. microsporus
+1,1,0,['36080'],[],"[{'Term': 'Mucor circinelloides[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mucor circinelloides[All Names],,,Mucor circinelloides
+1,1,0,['42458'],[],"[{'Term': 'Lichtheimia corymbifera[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lichtheimia corymbifera[All Names],,,Lichtheimia corymbifera
+1,1,0,['90269'],[],"[{'Term': 'Apophysomyces elegans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Apophysomyces elegans[All Names],,,Apophysomyces elegans
+1,1,0,['31870'],[],"[{'Term': 'Colletotrichum graminicola[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Colletotrichum graminicola[All Names],,,Colletotrichum graminicola
+1,1,0,['523103'],[],"[{'Term': 'Trichophyton mentagrophytes[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichophyton mentagrophytes[All Names],,,Trichophyton mentagrophytes
+1,1,0,['36911'],[],"[{'Term': 'Clavispora lusitaniae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Clavispora lusitaniae[All Names],,,Clavispora lusitaniae
+1,1,0,['273371'],[],"[{'Term': 'Candida orthopsilosis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Candida orthopsilosis[All Names],,,Candida orthopsilosis
+1,1,0,['273372'],[],"[{'Term': 'Candida metapsilosis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Candida metapsilosis[All Names],,,Candida metapsilosis
+1,1,0,['746128'],[],"[{'Term': 'Neosartorya fumigata[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, {'Term': 'aspergillus fumigatus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'AND']",Neosartorya fumigata[All Names] AND aspergillus fumigatus[All Names],,,Neosartorya fumigata (Aspergillus fumigatus)
+1,1,0,['162425'],[],"[{'Term': 'aspergillus nidulans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",aspergillus nidulans[All Names],,,Aspergillus nidulans
+1,1,0,['5207'],[],"[{'Term': 'cryptococcus neoformans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",cryptococcus neoformans[All Names],,,Cryptococcus neoformans
+1,1,0,['5537'],[],"[{'Term': 'Rhodotorula mucilaginosa[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Rhodotorula mucilaginosa[All Names],,,Rhodotorula mucilaginosa
+1,1,0,['5552'],[],"[{'Term': 'Trichosporon[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichosporon[All Names],,,Trichosporon
+1,1,0,['4953'],[],"[{'Term': 'Zygosaccharomyces[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Zygosaccharomyces[All Names],,,Zygosaccharomyces
+1,1,0,['34356'],[],"[{'Term': 'Kodamaea ohmeri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Kodamaea ohmeri[All Names],,,Kodamaea ohmeri
+1,1,0,['907340'],[],"[{'Term': 'Cyberlindnera saturnus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cyberlindnera saturnus[All Names],,,Cyberlindnera saturnus
+1,1,0,['43987'],[],"[{'Term': 'Geotrichum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Geotrichum[All Names],,,Geotrichum
+1,1,0,['28985'],[],"[{'Term': 'Kluyveromyces lactis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Kluyveromyces lactis[All Names],,,Kluyveromyces lactis
+1,1,0,['4921'],[],"[{'Term': 'Pichia norvegensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pichia norvegensis[All Names],,,Pichia norvegensis
+1,1,0,['418086'],[],"[{'Term': 'Nakaseomyces nivariensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Nakaseomyces nivariensis[All Names],,,Nakaseomyces nivariensis
+1,1,0,['53655'],[],"[{'Term': 'Pichia fermentans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pichia fermentans[All Names],,,Pichia fermentans
+1,1,0,['241526'],[],"[{'Term': 'Candida africana[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Candida africana[All Names],,,Candida africana
+0,0,0,[],[],,Candida[All Names] AND intermedia[All Names],"{'FieldNotFound': [], 'PhraseNotFound': ['intermedia']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",[Candida] intermedia
+0,0,0,[],[],,Candida[All Names] AND inconspicua[All Names],"{'FieldNotFound': [], 'PhraseNotFound': ['inconspicua']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",[Candida] inconspicua
+1,1,0,['4903'],[],"[{'Term': 'Cyberlindnera jadinii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cyberlindnera jadinii[All Names],,,Cyberlindnera jadinii
+1,1,0,['5481'],[],"[{'Term': 'Diutina rugosa[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Diutina rugosa[All Names],,,Diutina rugosa
+1,1,0,['4959'],[],"[{'Term': 'Debaryomyces hansenii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Debaryomyces hansenii[All Names],,,Debaryomyces hansenii
+1,1,0,['4952'],[],"[{'Term': 'yarrowia lipolytica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",yarrowia lipolytica[All Names],,,Yarrowia lipolytica
+1,1,0,['66948'],[],"[{'Term': 'Meyerozyma caribbica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Meyerozyma caribbica[All Names],,,Meyerozyma caribbica
+0,0,0,[],[],,Candida[All Names] AND haemuloni[All Names],"{'FieldNotFound': [], 'PhraseNotFound': ['haemuloni']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",[Candida] haemuloni
+1,1,0,['4911'],[],"[{'Term': 'Kluyveromyces marxianus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Kluyveromyces marxianus[All Names],,,Kluyveromyces marxianus
+1,1,0,['4929'],[],"[{'Term': 'Meyerozyma guilliermondii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Meyerozyma guilliermondii[All Names],,,Meyerozyma guilliermondii
+1,1,0,['29916'],[],"[{'Term': 'Fusarium sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusarium sp.[All Names],,,Fusarium sp.
+1,1,0,['40355'],[],"[{'Term': 'Fonsecaea pedrosoi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fonsecaea pedrosoi[All Names],,,Fonsecaea pedrosoi
+1,1,0,['254056'],[],"[{'Term': 'Fonsecaea monophora[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fonsecaea monophora[All Names],,,Fonsecaea monophora
+1,1,0,['5475'],[],"[{'Term': 'Candida[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Candida[All Names],,,Candida
+1,1,0,['37769'],[],"[{'Term': 'Cryptococcus gattii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cryptococcus gattii[All Names],,,Cryptococcus gattii
+1,1,0,['82517'],[],"[{'Term': 'Trichosporon inkin[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichosporon inkin[All Names],,,Trichosporon inkin
+1,1,0,['82508'],[],"[{'Term': 'Trichosporon asahii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichosporon asahii[All Names],,,Trichosporon asahii
+1,1,0,['1173061'],[],"[{'Term': 'Geotrichum candidum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Geotrichum candidum[All Names],,,Geotrichum candidum
+1,1,0,['64493'],[],"[{'Term': 'Mucor hiemalis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mucor hiemalis[All Names],,,Mucor hiemalis
+1,1,0,['41688'],[],"[{'Term': 'Lomentospora prolificans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lomentospora prolificans[All Names],,,Lomentospora prolificans
+1,1,0,['563466'],[],"[{'Term': 'scedosporium apiospermum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",scedosporium apiospermum[All Names],,,Scedosporium apiospermum
+1,1,0,['37727'],[],"[{'Term': 'Talaromyces marneffei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Talaromyces marneffei[All Names],,,Talaromyces marneffei
+1,1,0,['5081'],[],"[{'Term': 'Penicillium sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Penicillium sp.[All Names],,,Penicillium sp.
+1,1,0,['169388'],[],"[{'Term': 'Fusarium solani[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusarium solani[All Names],,,Fusarium solani
+1,1,0,['5507'],[],"[{'Term': 'Fusarium oxysporum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusarium oxysporum[All Names],,,Fusarium oxysporum
+1,1,0,['29908'],[],"[{'Term': 'Sporothrix schenckii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Sporothrix schenckii[All Names],,,Sporothrix schenckii
+1,1,0,['5503'],[],"[{'Term': 'Curvularia lunata[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Curvularia lunata[All Names],,,Curvularia lunata
+1,1,0,['91365'],[],"[{'Term': 'Curvularia australiensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Curvularia australiensis[All Names],,,Curvularia australiensis
+1,1,0,['5551'],[],"[{'Term': 'Trichophyton rubrum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichophyton rubrum[All Names],,,Trichophyton rubrum
+1,1,0,['264951'],[],"[{'Term': 'Paecilomyces variotii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Paecilomyces variotii[All Names],,,Paecilomyces variotii
+0,0,0,[],[],,Candida[All Names] AND zeylanoides[All Names],"{'FieldNotFound': [], 'PhraseNotFound': ['zeylanoides']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",[Candida] zeylanoides
+1,1,0,['1095183'],[],"[{'Term': 'Magnusiomyces capitatus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Magnusiomyces capitatus[All Names],,,Magnusiomyces capitatus
+1,1,0,['40410'],[],"[{'Term': 'Cryptococcus neoformans var. neoformans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cryptococcus neoformans var. neoformans[All Names],,,Cryptococcus neoformans var. neoformans
+1,1,0,['100951'],[],"[{'Term': 'Naganishia albida[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Naganishia albida[All Names],,,Naganishia albida
+1,1,0,['5535'],[],"[{'Term': 'Rhodotorula glutinis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Rhodotorula glutinis[All Names],,,Rhodotorula glutinis
+1,1,0,['5418'],[],"[{'Term': 'Papiliotrema laurentii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Papiliotrema laurentii[All Names],,,Papiliotrema laurentii
+1,1,0,['75750'],[],"[{'Term': 'Aspergillus sydowii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aspergillus sydowii[All Names],,,Aspergillus sydowii
+1,1,0,['46472'],[],"[{'Term': 'Aspergillus versicolor[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aspergillus versicolor[All Names],,,Aspergillus versicolor
+1,1,0,['40380'],[],"[{'Term': 'aspergillus ochraceus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",aspergillus ochraceus[All Names],,,Aspergillus ochraceus
+1,1,0,['5052'],[],"[{'Term': 'Aspergillus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aspergillus[All Names],,,Aspergillus
+1,1,0,['5073'],[],"[{'Term': 'Penicillium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Penicillium[All Names],,,Penicillium
+1,1,0,['948311'],[],"[{'Term': 'Fusarium proliferatum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusarium proliferatum[All Names],,,Fusarium proliferatum
+1,1,0,['117187'],[],"[{'Term': 'Fusarium verticillioides[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusarium verticillioides[All Names],,,Fusarium verticillioides
+1,1,0,['561152'],[],"[{'Term': 'Scopulariopsis brevicaulis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Scopulariopsis brevicaulis[All Names],,,Scopulariopsis brevicaulis
+1,1,0,['5543'],[],"[{'Term': 'Trichoderma[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichoderma[All Names],,,Trichoderma
+1,1,0,['61235'],[],"[{'Term': 'Fusarium equiseti[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusarium equiseti[All Names],,,Fusarium equiseti
+1,1,0,['176275'],[],"[{'Term': 'Beauveria bassiana[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Beauveria bassiana[All Names],,,Beauveria bassiana
+1,1,0,['5599'],[],"[{'Term': 'Alternaria alternata[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Alternaria alternata[All Names],,,Alternaria alternata
+1,1,0,['5970'],[],"[{'Term': 'Exophiala dermatitidis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Exophiala dermatitidis[All Names],,,Exophiala dermatitidis
+1,1,0,['5580'],[],"[{'Term': 'Aureobasidium pullulans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aureobasidium pullulans[All Names],,,Aureobasidium pullulans
+1,1,0,['5498'],[],"[{'Term': 'Cladosporium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cladosporium[All Names],,,Cladosporium
+1,1,0,['90251'],[],"[{'Term': 'Cunninghamella bertholletiae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cunninghamella bertholletiae[All Names],,,Cunninghamella bertholletiae
+1,1,0,['5068'],[],"[{'Term': 'Aspergillus tubingensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aspergillus tubingensis[All Names],,,Aspergillus tubingensis
+1,1,0,['5478'],[],"[{'Term': 'candida glabrata[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",candida glabrata[All Names],,,Candida glabrata
+1,1,0,['319629'],[],"[{'Term': 'Aspergillus brasiliensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aspergillus brasiliensis[All Names],,,Aspergillus brasiliensis
+0,0,0,[],[],"[{'Term': 'Candida[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, {'Term': 'auris[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'AND']",Candida[All Names] AND auris[All Names],,,[Candida] auris
+1,1,0,['29387'],[],"[{'Term': 'Staphylococcus sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus sp.[All Names],,,Staphylococcus sp.
+1,1,0,['1306'],[],"[{'Term': 'Streptococcus sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus sp.[All Names],,,Streptococcus sp.
+1,1,0,['1283'],[],"[{'Term': 'staphylococcus haemolyticus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",staphylococcus haemolyticus[All Names],,,Staphylococcus haemolyticus
+1,1,0,['1764'],[],"[{'Term': 'mycobacterium avium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",mycobacterium avium[All Names],,,Mycobacterium avium
+1,1,0,['29388'],[],"[{'Term': 'Staphylococcus capitis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus capitis[All Names],,,Staphylococcus capitis
+1,1,0,['1334'],[],"[{'Term': 'Streptococcus dysgalactiae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus dysgalactiae[All Names],,,Streptococcus dysgalactiae
+2,2,0,"['629395', '2']",[],"[{'Term': 'Bacteria[All Names]', 'Field': 'All Names', 'Count': '2', 'Explode': 'N'}, 'GROUP']",Bacteria[All Names],,,Bacteria
+1,1,0,['1642'],[],"[{'Term': 'Listeria innocua[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Listeria innocua[All Names],,,Listeria innocua
+1,1,0,['953'],[],"[{'Term': 'Wolbachia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Wolbachia[All Names],,,Wolbachia
+1,1,0,['747'],[],"[{'Term': 'pasteurella multocida[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",pasteurella multocida[All Names],,,Pasteurella multocida
+1,1,0,['1404'],[],"[{'Term': 'Priestia megaterium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Priestia megaterium[All Names],,,Priestia megaterium
+1,1,0,['587'],[],"[{'Term': 'Providencia rettgeri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Providencia rettgeri[All Names],,,Providencia rettgeri
+1,1,0,['594'],[],"[{'Term': 'Salmonella enterica subsp. enterica serovar Gallinarum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella enterica subsp. enterica serovar Gallinarum[All Names],,,Salmonella enterica subsp. enterica serovar Gallinarum
+1,1,0,['1307'],[],"[{'Term': 'streptococcus suis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",streptococcus suis[All Names],,,Streptococcus suis
+1,1,0,['1769'],[],"[{'Term': 'mycobacterium leprae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",mycobacterium leprae[All Names],,,Mycobacterium leprae
+1,1,0,['29497'],[],"[{'Term': 'Vibrio splendidus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Vibrio splendidus[All Names],,,Vibrio splendidus
+1,1,0,['55601'],[],"[{'Term': 'Vibrio anguillarum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Vibrio anguillarum[All Names],,,Vibrio anguillarum
+1,1,0,['59201'],[],"[{'Term': 'Salmonella enterica subsp. enterica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella enterica subsp. enterica[All Names],,,Salmonella enterica subsp. enterica
+1,1,0,['1770'],[],"[{'Term': 'Mycobacterium avium subsp. paratuberculosis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycobacterium avium subsp. paratuberculosis[All Names],,,Mycobacterium avium subsp. paratuberculosis
+0,0,0,[],[],,Mycobacterium tuberculosis[All Names] AND (strain ATCC 25618/H37Rv[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'ATCC', '25618', 'H37Rv']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+1,1,0,['11320'],[],"[{'Term': 'influenza a virus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",influenza a virus[All Names],,,Influenza A virus
+1,1,0,['1421'],[],"[{'Term': 'Lysinibacillus sphaericus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lysinibacillus sphaericus[All Names],,,Lysinibacillus sphaericus
+1,1,0,['28090'],[],"[{'Term': 'Acinetobacter lwoffii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Acinetobacter lwoffii[All Names],,,Acinetobacter lwoffii
+1,1,0,['303'],[],"[{'Term': 'pseudomonas putida[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",pseudomonas putida[All Names],,,Pseudomonas putida
+1,1,0,['471'],[],"[{'Term': 'acinetobacter calcoaceticus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",acinetobacter calcoaceticus[All Names],,,Acinetobacter calcoaceticus
+1,1,0,['520'],[],"[{'Term': 'bordetella pertussis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",bordetella pertussis[All Names],,,Bordetella pertussis
+1,1,0,['1358'],[],"[{'Term': 'lactococcus lactis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",lactococcus lactis[All Names],,,Lactococcus lactis
+1,1,0,['582'],[],"[{'Term': 'morganella morganii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",morganella morganii[All Names],,,Morganella morganii
+1,1,0,['73239'],[],"[{'Term': 'Plasmodium yoelii yoelii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Plasmodium yoelii yoelii[All Names],,,Plasmodium yoelii yoelii
+1,1,0,['674'],[],"[{'Term': 'Vibrio mimicus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Vibrio mimicus[All Names],,,Vibrio mimicus
+1,1,0,['636'],[],"[{'Term': 'edwardsiella tarda[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",edwardsiella tarda[All Names],,,Edwardsiella tarda
+1,1,0,['10029'],[],"[{'Term': 'Cricetulus griseus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cricetulus griseus[All Names],,,Cricetulus griseus
+1,1,0,['818'],[],"[{'Term': 'Bacteroides thetaiotaomicron[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacteroides thetaiotaomicron[All Names],,,Bacteroides thetaiotaomicron
+1,1,0,['28132'],[],"[{'Term': 'prevotella melaninogenica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",prevotella melaninogenica[All Names],,,Prevotella melaninogenica
+1,1,0,['28116'],[],"[{'Term': 'Bacteroides ovatus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacteroides ovatus[All Names],,,Bacteroides ovatus
+1,1,0,['823'],[],"[{'Term': 'Parabacteroides distasonis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Parabacteroides distasonis[All Names],,,Parabacteroides distasonis
+1,1,0,['821'],[],"[{'Term': 'Phocaeicola vulgatus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Phocaeicola vulgatus[All Names],,,Phocaeicola vulgatus
+1,1,0,['851'],[],"[{'Term': 'fusobacterium nucleatum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",fusobacterium nucleatum[All Names],,,Fusobacterium nucleatum
+1,1,0,['859'],[],"[{'Term': 'fusobacterium necrophorum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",fusobacterium necrophorum[All Names],,,Fusobacterium necrophorum
+1,1,0,['1547'],[],"[{'Term': 'Thomasclavelia ramosa[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Thomasclavelia ramosa[All Names],,,Thomasclavelia ramosa
+1,1,0,['1504'],[],"[{'Term': 'Clostridium septicum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Clostridium septicum[All Names],,,Clostridium septicum
+1,1,0,['1492'],[],"[{'Term': 'Clostridium butyricum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Clostridium butyricum[All Names],,,Clostridium butyricum
+1,1,0,['1509'],[],"[{'Term': 'Clostridium sporogenes[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Clostridium sporogenes[All Names],,,Clostridium sporogenes
+1,1,0,['33034'],[],"[{'Term': 'Anaerococcus prevotii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Anaerococcus prevotii[All Names],,,Anaerococcus prevotii
+1,1,0,['260603'],[],"[{'Term': 'Lycopus europaeus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lycopus europaeus[All Names],,,Lycopus europaeus
+1,1,0,['9527'],[],"[{'Term': 'Cercopithecidae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cercopithecidae[All Names],,,Cercopithecidae
+1,1,0,['518'],[],"[{'Term': 'bordetella bronchiseptica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",bordetella bronchiseptica[All Names],,,Bordetella bronchiseptica
+1,1,0,['715'],[],"[{'Term': 'actinobacillus pleuropneumoniae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",actinobacillus pleuropneumoniae[All Names],,,Actinobacillus pleuropneumoniae
+1,1,0,['1661'],[],"[{'Term': 'Trueperella pyogenes[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trueperella pyogenes[All Names],,,Trueperella pyogenes
+1,1,0,['472'],[],"[{'Term': 'Acinetobacter sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Acinetobacter sp.[All Names],,,Acinetobacter sp.
+0,0,0,[],[],"[{'Term': 'bacillus subtilis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, {'Term': 'strain 168[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'AND']",bacillus subtilis[All Names] AND strain 168[All Names],,,Bacillus subtilis (strain 168)
+1,1,0,['35725'],[],"[{'Term': 'Macrophomina phaseolina[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Macrophomina phaseolina[All Names],,,Macrophomina phaseolina
+1,1,0,['5702'],[],"[{'Term': 'trypanosoma brucei brucei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",trypanosoma brucei brucei[All Names],,,Trypanosoma brucei brucei
+1,1,0,['1771'],[],"[{'Term': 'Mycolicibacterium phlei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycolicibacterium phlei[All Names],,,Mycolicibacterium phlei
+1,1,0,['456999'],[],"[{'Term': 'Rhizoctonia solani[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Rhizoctonia solani[All Names],,,Rhizoctonia solani
+1,1,0,['305'],[],"[{'Term': 'Ralstonia solanacearum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Ralstonia solanacearum[All Names],,,Ralstonia solanacearum
+1,1,0,['551'],[],"[{'Term': 'Erwinia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Erwinia[All Names],,,Erwinia
+1,1,0,['53413'],[],"[{'Term': 'Xanthomonas axonopodis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Xanthomonas axonopodis[All Names],,,Xanthomonas axonopodis
+1,1,0,['347'],[],"[{'Term': 'Xanthomonas oryzae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Xanthomonas oryzae[All Names],,,Xanthomonas oryzae
+1,1,0,['5518'],[],"[{'Term': 'Fusarium graminearum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusarium graminearum[All Names],,,Fusarium graminearum
+1,1,0,['105487'],[],"[{'Term': 'Valsa mali[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Valsa mali[All Names],,,Valsa mali
+0,0,0,[],[],,Escherichia coli[All Names] AND (strain K12[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'K12']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Escherichia coli (strain K12)
+1,1,0,['1309'],[],"[{'Term': 'streptococcus mutans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",streptococcus mutans[All Names],,,Streptococcus mutans
+1,1,0,['1296'],[],"[{'Term': 'Mammaliicoccus sciuri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mammaliicoccus sciuri[All Names],,,Mammaliicoccus sciuri
+1,1,0,['1768'],[],"[{'Term': 'mycobacterium kansasii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",mycobacterium kansasii[All Names],,,Mycobacterium kansasii
+1,1,0,['1513'],[],"[{'Term': 'clostridium tetani[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",clostridium tetani[All Names],,,Clostridium tetani
+1,1,0,['1408'],[],"[{'Term': 'Bacillus pumilus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacillus pumilus[All Names],,,Bacillus pumilus
+1,1,0,['266'],[],"[{'Term': 'paracoccus denitrificans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",paracoccus denitrificans[All Names],,,Paracoccus denitrificans
+1,1,0,['317'],[],"[{'Term': 'Pseudomonas syringae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pseudomonas syringae[All Names],,,Pseudomonas syringae
+1,1,0,['1716'],[],"[{'Term': 'Corynebacterium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium[All Names],,,Corynebacterium
+1,1,0,['5057'],[],"[{'Term': 'Aspergillus clavatus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aspergillus clavatus[All Names],,,Aspergillus clavatus
+1,1,0,['1409'],[],"[{'Term': 'Bacillus sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacillus sp.[All Names],,,Bacillus sp.
+1,1,0,['1390'],[],"[{'Term': 'Bacillus amyloliquefaciens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacillus amyloliquefaciens[All Names],,,Bacillus amyloliquefaciens
+1,1,0,['996'],[],"[{'Term': 'Flavobacterium columnare[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Flavobacterium columnare[All Names],,,Flavobacterium columnare
+1,1,0,['1354'],[],"[{'Term': 'Enterococcus hirae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Enterococcus hirae[All Names],,,Enterococcus hirae
+1,1,0,['183417'],[],"[{'Term': 'Proteus hauseri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Proteus hauseri[All Names],,,Proteus hauseri
+1,1,0,['74722'],[],"[{'Term': 'Stachybotrys chartarum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Stachybotrys chartarum[All Names],,,Stachybotrys chartarum
+1,1,0,['5076'],[],"[{'Term': 'penicillium chrysogenum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",penicillium chrysogenum[All Names],,,Penicillium chrysogenum
+1,1,0,['5341'],[],"[{'Term': 'Agaricus bisporus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Agaricus bisporus[All Names],,,Agaricus bisporus
+1,1,0,['620'],[],"[{'Term': 'Shigella[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Shigella[All Names],,,Shigella
+1,1,0,['1498'],[],"[{'Term': 'Hathewaya histolytica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Hathewaya histolytica[All Names],,,Hathewaya histolytica
+1,1,0,['1496'],[],"[{'Term': 'Clostridioides difficile[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Clostridioides difficile[All Names],,,Clostridioides difficile
+1,1,0,['28130'],[],"[{'Term': 'Prevotella disiens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Prevotella disiens[All Names],,,Prevotella disiens
+1,1,0,['840'],[],"[{'Term': 'Hoylesella loescheii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Hoylesella loescheii[All Names],,,Hoylesella loescheii
+1,1,0,['28125'],[],"[{'Term': 'Prevotella bivia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Prevotella bivia[All Names],,,Prevotella bivia
+1,1,0,['848'],[],"[{'Term': 'Fusobacterium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusobacterium[All Names],,,Fusobacterium
+1,1,0,['29466'],[],"[{'Term': 'Veillonella parvula[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Veillonella parvula[All Names],,,Veillonella parvula
+1,1,0,['1257'],[],"[{'Term': 'Peptostreptococcus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Peptostreptococcus[All Names],,,Peptostreptococcus
+1,1,0,['33033'],[],"[{'Term': 'Parvimonas micra[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Parvimonas micra[All Names],,,Parvimonas micra
+1,1,0,['1767'],[],"[{'Term': 'mycobacterium intracellulare[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",mycobacterium intracellulare[All Names],,,Mycobacterium intracellulare
+1,1,0,['545'],[],"[{'Term': 'citrobacter koseri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",citrobacter koseri[All Names],,,Citrobacter koseri
+1,1,0,['476'],[],"[{'Term': 'moraxella bovis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",moraxella bovis[All Names],,,Moraxella bovis
+1,1,0,['210'],[],"[{'Term': 'helicobacter pylori[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",helicobacter pylori[All Names],,,Helicobacter pylori
+1,1,0,['714'],[],"[{'Term': 'Aggregatibacter actinomycetemcomitans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aggregatibacter actinomycetemcomitans[All Names],,,Aggregatibacter actinomycetemcomitans
+1,1,0,['107673'],[],"[{'Term': 'Acinetobacter calcoaceticus subsp. anitratus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Acinetobacter calcoaceticus subsp. anitratus[All Names],,,Acinetobacter calcoaceticus subsp. anitratus
+1,1,0,['511'],[],"[{'Term': 'Alcaligenes faecalis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Alcaligenes faecalis[All Names],,,Alcaligenes faecalis
+1,1,0,['84631'],[],"[{'Term': 'Proteus inconstans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Proteus inconstans[All Names],,,Proteus inconstans
+1,1,0,['1305'],[],"[{'Term': 'Streptococcus sanguinis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus sanguinis[All Names],,,Streptococcus sanguinis
+0,0,0,[],[],,Human immunodeficiency virus type 1 group M subtype B[All Names] AND (isolate HXB2[All Names]) AND (HIV-1[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Human', 'immunodeficiency', 'virus', 'type', '1', 'group', 'M', 'subtype', 'B', 'isolate', 'HXB2']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Human immunodeficiency virus type 1 group M subtype B (isolate HXB2)(HIV-1)
+1,1,0,['1763'],[],"[{'Term': 'Mycobacterium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycobacterium[All Names],,,Mycobacterium
+1,1,0,['544'],[],"[{'Term': 'Citrobacter[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Citrobacter[All Names],,,Citrobacter
+1,1,0,['60711'],[],"[{'Term': 'Chlorocebus sabaeus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Chlorocebus sabaeus[All Names],,,Chlorocebus sabaeus
+1,1,0,['1810'],[],"[{'Term': 'Mycolicibacterium vaccae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycolicibacterium vaccae[All Names],,,Mycolicibacterium vaccae
+1,1,0,['1791'],[],"[{'Term': 'Mycolicibacterium aurum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycolicibacterium aurum[All Names],,,Mycolicibacterium aurum
+1,1,0,['536'],[],"[{'Term': 'Chromobacterium violaceum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Chromobacterium violaceum[All Names],,,Chromobacterium violaceum
+1,1,0,['220341'],[],"[{'Term': 'Salmonella enterica subsp. enterica serovar Typhi str. CT18[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella enterica subsp. enterica serovar Typhi str. CT18[All Names],,,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+1,1,0,['1806'],[],"[{'Term': 'Mycobacterium tuberculosis variant microti[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycobacterium tuberculosis variant microti[All Names],,,Mycobacterium tuberculosis variant microti
+1,1,0,['729'],[],"[{'Term': 'Haemophilus parainfluenzae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Haemophilus parainfluenzae[All Names],,,Haemophilus parainfluenzae
+1,1,0,['576'],[],"[{'Term': 'Klebsiella sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Klebsiella sp.[All Names],,,Klebsiella sp.
+1,1,0,['80866'],[],"[{'Term': 'Delftia acidovorans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Delftia acidovorans[All Names],,,Delftia acidovorans
+1,1,0,['29382'],[],"[{'Term': 'Staphylococcus cohnii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus cohnii[All Names],,,Staphylococcus cohnii
+1,1,0,['1292'],[],"[{'Term': 'Staphylococcus warneri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus warneri[All Names],,,Staphylococcus warneri
+1,1,0,['1911'],[],"[{'Term': 'streptomyces griseus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",streptomyces griseus[All Names],,,Streptomyces griseus
+1,1,0,['1765'],[],"[{'Term': 'Mycobacterium tuberculosis variant bovis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycobacterium tuberculosis variant bovis[All Names],,,Mycobacterium tuberculosis variant bovis
+1,1,0,['40216'],[],"[{'Term': 'Acinetobacter radioresistens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Acinetobacter radioresistens[All Names],,,Acinetobacter radioresistens
+1,1,0,['1304'],[],"[{'Term': 'Streptococcus salivarius[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus salivarius[All Names],,,Streptococcus salivarius
+1,1,0,['759'],[],"[{'Term': 'Pasteurella sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pasteurella sp.[All Names],,,Pasteurella sp.
+1,1,0,['1718'],[],"[{'Term': 'Corynebacterium glutamicum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium glutamicum[All Names],,,Corynebacterium glutamicum
+1,1,0,['42858'],[],"[{'Term': 'Mammaliicoccus lentus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mammaliicoccus lentus[All Names],,,Mammaliicoccus lentus
+1,1,0,['1288'],[],"[{'Term': 'Staphylococcus xylosus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus xylosus[All Names],,,Staphylococcus xylosus
+1,1,0,['158836'],[],"[{'Term': 'Enterobacter hormaechei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Enterobacter hormaechei[All Names],,,Enterobacter hormaechei
+1,1,0,['35703'],[],"[{'Term': 'Citrobacter amalonaticus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Citrobacter amalonaticus[All Names],,,Citrobacter amalonaticus
+1,1,0,['57975'],[],"[{'Term': 'Burkholderia thailandensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Burkholderia thailandensis[All Names],,,Burkholderia thailandensis
+1,1,0,['1402'],[],"[{'Term': 'Bacillus licheniformis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacillus licheniformis[All Names],,,Bacillus licheniformis
+1,1,0,['1393'],[],"[{'Term': 'Brevibacillus brevis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Brevibacillus brevis[All Names],,,Brevibacillus brevis
+0,0,0,[],[],,(Serratia sp.[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Serratia', 'sp.']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Serratia sp.
+1,1,0,['57045'],[],"[{'Term': 'Salmonella enterica subsp. enterica serovar Paratyphi B[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella enterica subsp. enterica serovar Paratyphi B[All Names],,,Salmonella enterica subsp. enterica serovar Paratyphi B
+1,1,0,['599'],[],"[{'Term': 'Salmonella sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella sp.[All Names],,,Salmonella sp.
+1,1,0,['1888'],[],"[{'Term': 'Streptomyces albus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptomyces albus[All Names],,,Streptomyces albus
+1,1,0,['1269'],[],"[{'Term': 'Micrococcus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Micrococcus[All Names],,,Micrococcus
+1,1,0,['10298'],[],"[{'Term': 'Human alphaherpesvirus 1[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Human alphaherpesvirus 1[All Names],,,Human alphaherpesvirus 1
+1,1,0,['1467'],[],"[{'Term': 'Lederbergia lenta[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lederbergia lenta[All Names],,,Lederbergia lenta
+1,1,0,['702'],[],"[{'Term': 'Plesiomonas[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Plesiomonas[All Names],,,Plesiomonas
+1,1,0,['177416'],[],"[{'Term': 'Francisella tularensis subsp. tularensis SCHU S4[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Francisella tularensis subsp. tularensis SCHU S4[All Names],,,Francisella tularensis subsp. tularensis SCHU S4
+1,1,0,['575'],[],"[{'Term': 'Raoultella planticola[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Raoultella planticola[All Names],,,Raoultella planticola
+1,1,0,['29430'],[],"[{'Term': 'Acinetobacter haemolyticus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Acinetobacter haemolyticus[All Names],,,Acinetobacter haemolyticus
+1,1,0,['5811'],[],"[{'Term': 'toxoplasma gondii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",toxoplasma gondii[All Names],,,Toxoplasma gondii
+1,1,0,['9544'],[],"[{'Term': 'macaca mulatta[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",macaca mulatta[All Names],,,Macaca mulatta
+1,1,0,['72000'],[],"[{'Term': 'Kocuria rhizophila[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Kocuria rhizophila[All Names],,,Kocuria rhizophila
+1,1,0,['31285'],[],"[{'Term': 'trypanosoma brucei gambiense[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",trypanosoma brucei gambiense[All Names],,,Trypanosoma brucei gambiense
+1,1,0,['87883'],[],"[{'Term': 'Burkholderia multivorans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Burkholderia multivorans[All Names],,,Burkholderia multivorans
+1,1,0,['28131'],[],"[{'Term': 'prevotella intermedia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",prevotella intermedia[All Names],,,Prevotella intermedia
+1,1,0,['263'],[],"[{'Term': 'francisella tularensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",francisella tularensis[All Names],,,Francisella tularensis
+1,1,0,['1833'],[],"[{'Term': 'Rhodococcus erythropolis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Rhodococcus erythropolis[All Names],,,Rhodococcus erythropolis
+1,1,0,['29460'],[],"[{'Term': 'Brucella neotomae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Brucella neotomae[All Names],,,Brucella neotomae
+1,1,0,['37162'],[],"[{'Term': 'Mycobacterium avium complex sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycobacterium avium complex sp.[All Names],,,Mycobacterium avium complex sp.
+1,1,0,['5005'],[],"[{'Term': 'Sporobolomyces salmonicolor[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Sporobolomyces salmonicolor[All Names],,,Sporobolomyces salmonicolor
+1,1,0,['37734'],[],"[{'Term': 'Enterococcus casseliflavus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Enterococcus casseliflavus[All Names],,,Enterococcus casseliflavus
+1,1,0,['1281'],[],"[{'Term': 'Staphylococcus carnosus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus carnosus[All Names],,,Staphylococcus carnosus
+1,1,0,['837'],[],"[{'Term': 'porphyromonas gingivalis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",porphyromonas gingivalis[All Names],,,Porphyromonas gingivalis
+1,1,0,['229037'],[],"[{'Term': 'Proteus sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Proteus sp.[All Names],,,Proteus sp.
+1,1,0,['1520'],[],"[{'Term': 'Clostridium beijerinckii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Clostridium beijerinckii[All Names],,,Clostridium beijerinckii
+1,1,0,['1491'],[],"[{'Term': 'clostridium botulinum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",clostridium botulinum[All Names],,,Clostridium botulinum
+1,1,0,['86664'],[],"[{'Term': 'Bacillus flexus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacillus flexus[All Names],,,Bacillus flexus
+1,1,0,['148305'],[],"[{'Term': 'Pyricularia grisea[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pyricularia grisea[All Names],,,Pyricularia grisea
+1,1,0,['2052682'],[],"[{'Term': 'Globisporangium ultimum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Globisporangium ultimum[All Names],,,Globisporangium ultimum
+1,1,0,['1781'],[],"[{'Term': 'mycobacterium marinum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",mycobacterium marinum[All Names],,,Mycobacterium marinum
+1,1,0,['1778'],[],"[{'Term': 'mycobacterium gordonae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",mycobacterium gordonae[All Names],,,Mycobacterium gordonae
+1,1,0,['33892'],[],"[{'Term': 'Mycobacterium tuberculosis variant bovis BCG[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycobacterium tuberculosis variant bovis BCG[All Names],,,Mycobacterium tuberculosis variant bovis BCG
+1,1,0,['9557'],[],"[{'Term': 'Papio hamadryas[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Papio hamadryas[All Names],,,Papio hamadryas
+1,1,0,['1789'],[],"[{'Term': 'mycobacterium xenopi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",mycobacterium xenopi[All Names],,,Mycobacterium xenopi
+1,1,0,['1809'],[],"[{'Term': 'mycobacterium ulcerans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",mycobacterium ulcerans[All Names],,,Mycobacterium ulcerans
+1,1,0,['1801'],[],"[{'Term': 'Mycolicibacterium diernhoferi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycolicibacterium diernhoferi[All Names],,,Mycolicibacterium diernhoferi
+1,1,0,['10036'],[],"[{'Term': 'Mesocricetus auratus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mesocricetus auratus[All Names],,,Mesocricetus auratus
+1,1,0,['6660'],[],"[{'Term': 'Artemia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Artemia[All Names],,,Artemia
+1,1,0,['625'],[],"[{'Term': 'Shigella sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Shigella sp.[All Names],,,Shigella sp.
+1,1,0,['1667'],[],"[{'Term': 'Arthrobacter sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Arthrobacter sp.[All Names],,,Arthrobacter sp.
+1,1,0,['1783'],[],"[{'Term': 'mycobacterium scrofulaceum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",mycobacterium scrofulaceum[All Names],,,Mycobacterium scrofulaceum
+1,1,0,['1787'],[],"[{'Term': 'mycobacterium szulgai[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",mycobacterium szulgai[All Names],,,Mycobacterium szulgai
+0,0,0,[],[],,(Mycobacterium smegmatis[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Mycobacterium smegmatis[All Names]']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Mycobacterium smegmatis
+1,1,0,['1788'],[],"[{'Term': 'Mycolicibacter terrae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycolicibacter terrae[All Names],,,Mycolicibacter terrae
+0,0,0,[],[],,Mycobacterium smegmatis[All Names] AND (strain ATCC 700084/mc[All Names] AND (2[All Names]) AND 155[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Mycobacterium smegmatis[All Names]', 'strain', 'ATCC', '700084', 'mc', '2', '155']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155)
+1,1,0,['83332'],[],"[{'Term': 'Mycobacterium tuberculosis H37Rv[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycobacterium tuberculosis H37Rv[All Names],,,Mycobacterium tuberculosis H37Rv
+1,1,0,['1891767'],[],"[{'Term': 'simian virus 40[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",simian virus 40[All Names],,,Simian virus 40
+1,1,0,['36329'],[],"[{'Term': 'Plasmodium falciparum 3D7[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Plasmodium falciparum 3D7[All Names],,,Plasmodium falciparum 3D7
+1,1,0,['3559'],[],"[{'Term': 'chenopodium album[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",chenopodium album[All Names],,,Chenopodium album
+1,1,0,['108380'],[],"[{'Term': 'Sida spinosa[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Sida spinosa[All Names],,,Sida spinosa
+1,1,0,['346985'],[],"[{'Term': 'Senna obtusifolia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Senna obtusifolia[All Names],,,Senna obtusifolia
+1,1,0,['4119'],[],"[{'Term': 'Ipomoea[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Ipomoea[All Names],,,Ipomoea
+1,1,0,['4560'],[],"[{'Term': 'Sorghum halepense[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Sorghum halepense[All Names],,,Sorghum halepense
+1,1,0,['4558'],[],"[{'Term': 'Sorghum bicolor[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Sorghum bicolor[All Names],,,Sorghum bicolor
+1,1,0,['29659'],[],"[{'Term': 'Poa nemoralis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Poa nemoralis[All Names],,,Poa nemoralis
+1,1,0,['4212'],[],"[{'Term': 'Ambrosia artemisiifolia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Ambrosia artemisiifolia[All Names],,,Ambrosia artemisiifolia
+1,1,0,['65948'],[],"[{'Term': 'nasturtium officinale[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",nasturtium officinale[All Names],,,Nasturtium officinale
+1,1,0,['4076'],[],"[{'Term': 'datura stramonium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",datura stramonium[All Names],,,Datura stramonium
+1,1,0,['358'],[],"[{'Term': 'agrobacterium tumefaciens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",agrobacterium tumefaciens[All Names],,,Agrobacterium tumefaciens
+1,1,0,['554'],[],"[{'Term': 'Pectobacterium carotovorum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pectobacterium carotovorum[All Names],,,Pectobacterium carotovorum
+1,1,0,['2035'],[],"[{'Term': 'Curtobacterium flaccumfaciens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Curtobacterium flaccumfaciens[All Names],,,Curtobacterium flaccumfaciens
+1,1,0,['27357'],[],"[{'Term': 'Colletotrichum acutatum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Colletotrichum acutatum[All Names],,,Colletotrichum acutatum
+1,1,0,['7957'],[],"[{'Term': 'carassius auratus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",carassius auratus[All Names],,,Carassius auratus
+1,1,0,['5759'],[],"[{'Term': 'entamoeba histolytica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",entamoeba histolytica[All Names],,,Entamoeba histolytica
+0,0,0,[],[],"[{'Term': 'influenza a virus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, {'Term': 'H1N1[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'AND']",influenza a virus[All Names] AND H1N1[All Names],"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'A', 'USSR', '90', '1977']}",,Influenza A virus (strain A/USSR/90/1977 H1N1)
+1,1,0,['10026'],[],"[{'Term': 'Cricetinae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cricetinae[All Names],,,Cricetinae
+1,1,0,['37124'],[],"[{'Term': 'chikungunya virus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",chikungunya virus[All Names],,,Chikungunya virus
+0,0,0,[],[],,Influenza A virus[All Names] AND (A/Puerto Rico/8/1934[All Names] AND (H1N1[All Names])),"{'FieldNotFound': [], 'PhraseNotFound': ['A', 'Puerto', 'Rico', '8', '1934']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+0,0,0,[],[],,Pseudomonas aeruginosa[All Names] AND (strain ATCC 15692/DSM 22644/CIP 104116/JCM14847/LMG 12228/1C/PRS 101/PAO1[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'ATCC', '15692', 'DSM', '22644', 'CIP', '104116', 'JCM14847', 'LMG', '12228', '1C', 'PRS', '101', 'PAO1']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM14847 / LMG 12228 / 1C / PRS 101 / PAO1)
+1,1,0,['64320'],[],"[{'Term': 'Zika virus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Zika virus[All Names],,,Zika virus
+1,1,0,['3052230'],[],"[{'Term': 'Hepacivirus hominis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Hepacivirus hominis[All Names],,,Hepacivirus hominis
+1,1,0,['1681'],[],"[{'Term': 'Bifidobacterium bifidum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bifidobacterium bifidum[All Names],,,Bifidobacterium bifidum
+1,1,0,['1685'],[],"[{'Term': 'Bifidobacterium breve[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bifidobacterium breve[All Names],,,Bifidobacterium breve
+1,1,0,['216816'],[],"[{'Term': 'Bifidobacterium longum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bifidobacterium longum[All Names],,,Bifidobacterium longum
+1,1,0,['33905'],[],"[{'Term': 'Bifidobacterium thermophilum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bifidobacterium thermophilum[All Names],,,Bifidobacterium thermophilum
+1,1,0,['1902'],[],"[{'Term': 'Streptomyces coelicolor[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptomyces coelicolor[All Names],,,Streptomyces coelicolor
+1,1,0,['5272'],[],"[{'Term': 'Microbotryum violaceum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Microbotryum violaceum[All Names],,,Microbotryum violaceum
+1,1,0,['556'],[],"[{'Term': 'Dickeya chrysanthemi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Dickeya chrysanthemi[All Names],,,Dickeya chrysanthemi
+1,1,0,['132473'],[],"[{'Term': 'Streptomyces alboniger[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptomyces alboniger[All Names],,,Streptomyces alboniger
+1,1,0,['42234'],[],"[{'Term': 'Streptomyces acidiscabies[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptomyces acidiscabies[All Names],,,Streptomyces acidiscabies
+1,1,0,['1930'],[],"[{'Term': 'Streptomyces scabiei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptomyces scabiei[All Names],,,Streptomyces scabiei
+1,1,0,['1353'],[],"[{'Term': 'Enterococcus gallinarum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Enterococcus gallinarum[All Names],,,Enterococcus gallinarum
+1,1,0,['68766'],[],"[{'Term': 'Fusobacterium sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusobacterium sp.[All Names],,,Fusobacterium sp.
+1,1,0,['28126'],[],"[{'Term': 'Prevotella buccae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Prevotella buccae[All Names],,,Prevotella buccae
+1,1,0,['28128'],[],"[{'Term': 'Prevotella corporis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Prevotella corporis[All Names],,,Prevotella corporis
+1,1,0,['28134'],[],"[{'Term': 'Hoylesella oralis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Hoylesella oralis[All Names],,,Hoylesella oralis
+1,1,0,['29317'],[],"[{'Term': 'Actinomyces sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Actinomyces sp.[All Names],,,Actinomyces sp.
+1,1,0,['301447'],[],"[{'Term': 'Streptococcus pyogenes serotype M1[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus pyogenes serotype M1[All Names],,,Streptococcus pyogenes serotype M1
+1,1,0,['1262'],[],"[{'Term': 'Peptostreptococcus sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Peptostreptococcus sp.[All Names],,,Peptostreptococcus sp.
+1,1,0,['34078'],[],"[{'Term': 'Scytonema hofmannii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Scytonema hofmannii[All Names],,,Scytonema hofmannii
+1,1,0,['1406'],[],"[{'Term': 'Paenibacillus polymyxa[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Paenibacillus polymyxa[All Names],,,Paenibacillus polymyxa
+1,1,0,['820'],[],"[{'Term': 'Bacteroides uniformis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacteroides uniformis[All Names],,,Bacteroides uniformis
+1,1,0,['47678'],[],"[{'Term': 'Bacteroides caccae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacteroides caccae[All Names],,,Bacteroides caccae
+1,1,0,['46506'],[],"[{'Term': 'Bacteroides stercoris[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacteroides stercoris[All Names],,,Bacteroides stercoris
+1,1,0,['46503'],[],"[{'Term': 'Parabacteroides merdae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Parabacteroides merdae[All Names],,,Parabacteroides merdae
+0,0,0,[],[],,Clostridium[All Names] AND innocuum[All Names],"{'FieldNotFound': [], 'PhraseNotFound': ['innocuum']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",[Clostridium] innocuum
+1,1,0,['29363'],[],"[{'Term': 'Clostridium paraputrificum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Clostridium paraputrificum[All Names],,,Clostridium paraputrificum
+1,1,0,['1559'],[],"[{'Term': 'Clostridium tertium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Clostridium tertium[All Names],,,Clostridium tertium
+1,1,0,['1743'],[],"[{'Term': 'Propionibacterium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Propionibacterium[All Names],,,Propionibacterium
+1,1,0,['29523'],[],"[{'Term': 'Bacteroides sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacteroides sp.[All Names],,,Bacteroides sp.
+1,1,0,['850'],[],"[{'Term': 'Fusobacterium mortiferum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusobacterium mortiferum[All Names],,,Fusobacterium mortiferum
+1,1,0,['28123'],[],"[{'Term': 'Porphyromonas asaccharolytica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Porphyromonas asaccharolytica[All Names],,,Porphyromonas asaccharolytica
+1,1,0,['1659'],[],"[{'Term': 'Actinomyces israelii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Actinomyces israelii[All Names],,,Actinomyces israelii
+1,1,0,['52773'],[],"[{'Term': 'Schaalia meyeri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Schaalia meyeri[All Names],,,Schaalia meyeri
+1,1,0,['1655'],[],"[{'Term': 'Actinomyces naeslundii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Actinomyces naeslundii[All Names],,,Actinomyces naeslundii
+1,1,0,['84112'],[],"[{'Term': 'Eggerthella lenta[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Eggerthella lenta[All Names],,,Eggerthella lenta
+1,1,0,['142586'],[],"[{'Term': 'Eubacterium sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Eubacterium sp.[All Names],,,Eubacterium sp.
+1,1,0,['1542'],[],"[{'Term': 'Clostridium novyi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Clostridium novyi[All Names],,,Clostridium novyi
+1,1,0,['1529'],[],"[{'Term': 'Clostridium cadaveris[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Clostridium cadaveris[All Names],,,Clostridium cadaveris
+1,1,0,['1505'],[],"[{'Term': 'Paeniclostridium sordellii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Paeniclostridium sordellii[All Names],,,Paeniclostridium sordellii
+1,1,0,['1490'],[],"[{'Term': 'Paraclostridium bifermentans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Paraclostridium bifermentans[All Names],,,Paraclostridium bifermentans
+1,1,0,['1736'],[],"[{'Term': 'Eubacterium limosum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Eubacterium limosum[All Names],,,Eubacterium limosum
+1,1,0,['1717'],[],"[{'Term': 'corynebacterium diphtheriae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",corynebacterium diphtheriae[All Names],,,Corynebacterium diphtheriae
+1,1,0,['40041'],[],"[{'Term': 'Streptococcus equi subsp. zooepidemicus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus equi subsp. zooepidemicus[All Names],,,Streptococcus equi subsp. zooepidemicus
+1,1,0,['66527'],[],"[{'Term': 'Balamuthia mandrillaris[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Balamuthia mandrillaris[All Names],,,Balamuthia mandrillaris
+1,1,0,['331636'],[],"[{'Term': 'Chlamydia psittaci 6BC[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Chlamydia psittaci 6BC[All Names],,,Chlamydia psittaci 6BC
+1,1,0,['28114'],[],"[{'Term': 'Porphyromonas levii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Porphyromonas levii[All Names],,,Porphyromonas levii
+1,1,0,['33036'],[],"[{'Term': 'Anaerococcus tetradius[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Anaerococcus tetradius[All Names],,,Anaerococcus tetradius
+1,1,0,['1531'],[],"[{'Term': 'Enterocloster clostridioformis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Enterocloster clostridioformis[All Names],,,Enterocloster clostridioformis
+1,1,0,['28133'],[],"[{'Term': 'Prevotella nigrescens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Prevotella nigrescens[All Names],,,Prevotella nigrescens
+1,1,0,['28129'],[],"[{'Term': 'Prevotella denticola[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Prevotella denticola[All Names],,,Prevotella denticola
+1,1,0,['169292'],[],"[{'Term': 'Corynebacterium aurimucosum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium aurimucosum[All Names],,,Corynebacterium aurimucosum
+1,1,0,['38284'],[],"[{'Term': 'Corynebacterium accolens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium accolens[All Names],,,Corynebacterium accolens
+1,1,0,['146827'],[],"[{'Term': 'Corynebacterium simulans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium simulans[All Names],,,Corynebacterium simulans
+1,1,0,['119602'],[],"[{'Term': 'Streptococcus dysgalactiae subsp. equisimilis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptococcus dysgalactiae subsp. equisimilis[All Names],,,Streptococcus dysgalactiae subsp. equisimilis
+1,1,0,['322095'],[],"[{'Term': 'Porphyromonas somerae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Porphyromonas somerae[All Names],,,Porphyromonas somerae
+1,1,0,['1527'],[],"[{'Term': 'Anaerocolumna aminovalerica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Anaerocolumna aminovalerica[All Names],,,Anaerocolumna aminovalerica
+1,1,0,['1539'],[],"[{'Term': 'Clostridium malenominatum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Clostridium malenominatum[All Names],,,Clostridium malenominatum
+1,1,0,['29370'],[],"[{'Term': 'Lacrimispora sphenoides[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lacrimispora sphenoides[All Names],,,Lacrimispora sphenoides
+1,1,0,['33037'],[],"[{'Term': 'Anaerococcus vaginalis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Anaerococcus vaginalis[All Names],,,Anaerococcus vaginalis
+1,1,0,['29465'],[],"[{'Term': 'Veillonella[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Veillonella[All Names],,,Veillonella
+1,1,0,['74426'],[],"[{'Term': 'Collinsella aerofaciens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Collinsella aerofaciens[All Names],,,Collinsella aerofaciens
+1,1,0,['1582'],[],"[{'Term': 'Lacticaseibacillus casei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lacticaseibacillus casei[All Names],,,Lacticaseibacillus casei
+1,1,0,['47715'],[],"[{'Term': 'Lacticaseibacillus rhamnosus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lacticaseibacillus rhamnosus[All Names],,,Lacticaseibacillus rhamnosus
+1,1,0,['1579'],[],"[{'Term': 'lactobacillus acidophilus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",lactobacillus acidophilus[All Names],,,Lactobacillus acidophilus
+1,1,0,['1613'],[],"[{'Term': 'Limosilactobacillus fermentum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Limosilactobacillus fermentum[All Names],,,Limosilactobacillus fermentum
+1,1,0,['1590'],[],"[{'Term': 'Lactiplantibacillus plantarum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lactiplantibacillus plantarum[All Names],,,Lactiplantibacillus plantarum
+1,1,0,['1598'],[],"[{'Term': 'Limosilactobacillus reuteri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Limosilactobacillus reuteri[All Names],,,Limosilactobacillus reuteri
+1,1,0,['1018'],[],"[{'Term': 'Capnocytophaga ochracea[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Capnocytophaga ochracea[All Names],,,Capnocytophaga ochracea
+1,1,0,['1285'],[],"[{'Term': 'Staphylococcus intermedius[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus intermedius[All Names],,,Staphylococcus intermedius
+1,1,0,['41978'],[],"[{'Term': 'Ruminococcus sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Ruminococcus sp.[All Names],,,Ruminococcus sp.
+2,2,0,"['418103', '5820']",[],"[{'Term': 'Plasmodium[All Names]', 'Field': 'All Names', 'Count': '2', 'Explode': 'N'}, 'GROUP']",Plasmodium[All Names],,,Plasmodium
+1,1,0,['82135'],[],"[{'Term': 'Fannyhessea vaginae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fannyhessea vaginae[All Names],,,Fannyhessea vaginae
+1,1,0,['2702'],[],"[{'Term': 'gardnerella vaginalis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",gardnerella vaginalis[All Names],,,Gardnerella vaginalis
+1,1,0,['144177'],[],"[{'Term': 'Mobiluncus curtisii subsp. curtisii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mobiluncus curtisii subsp. curtisii[All Names],,,Mobiluncus curtisii subsp. curtisii
+1,1,0,['2741'],[],"[{'Term': 'Peptococcus niger[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Peptococcus niger[All Names],,,Peptococcus niger
+1,1,0,['158'],[],"[{'Term': 'Treponema denticola[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Treponema denticola[All Names],,,Treponema denticola
+0,0,0,[],[],,Pseudomonas aeruginosa[All Names] AND (strain ATCC 15692/PAO1/1C/PRS 101/LMG12228[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'ATCC', '15692', 'PAO1', '1C', 'PRS', '101', 'LMG12228']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG12228)
+1,1,0,['1656'],[],"[{'Term': 'actinomyces viscosus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",actinomyces viscosus[All Names],,,Actinomyces viscosus
+1,1,0,['109790'],[],"[{'Term': 'Lactobacillus jensenii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lactobacillus jensenii[All Names],,,Lactobacillus jensenii
+1,1,0,['1591'],[],"[{'Term': 'Lactobacillus sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lactobacillus sp.[All Names],,,Lactobacillus sp.
+1,1,0,['1488'],[],"[{'Term': 'Clostridium acetobutylicum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Clostridium acetobutylicum[All Names],,,Clostridium acetobutylicum
+1,1,0,['8017'],[],"[{'Term': 'oncorhynchus gorbuscha[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",oncorhynchus gorbuscha[All Names],,,Oncorhynchus gorbuscha
+1,1,0,['10045'],[],"[{'Term': 'Gerbillinae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Gerbillinae[All Names],,,Gerbillinae
+1,1,0,['53345'],[],"[{'Term': 'Enterococcus durans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Enterococcus durans[All Names],,,Enterococcus durans
+1,1,0,['1286'],[],"[{'Term': 'Staphylococcus simulans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus simulans[All Names],,,Staphylococcus simulans
+1,1,0,['589'],[],"[{'Term': 'Providencia sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Providencia sp.[All Names],,,Providencia sp.
+1,1,0,['9483'],[],"[{'Term': 'callithrix jacchus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",callithrix jacchus[All Names],,,Callithrix jacchus
+1,1,0,['9541'],[],"[{'Term': 'macaca fascicularis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",macaca fascicularis[All Names],,,Macaca fascicularis
+0,0,0,[],[],,Middle East respiratory syndrome-related coronavirus[All Names] AND (isolate UnitedKingdom/H123990006/2012[All Names]) AND (Betacoronavirus England 1[All Names]) AND (Humancoronavirus EMC[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['isolate', 'UnitedKingdom', 'H123990006', '2012', 'Humancoronavirus', 'EMC']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Middle East respiratory syndrome-related coronavirus (isolate UnitedKingdom/H123990006/2012) (Betacoronavirus England 1) (Humancoronavirus EMC)
+1,1,0,['7787'],[],"[{'Term': 'Torpedo californica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Torpedo californica[All Names],,,Torpedo californica
+1,1,0,['10359'],[],"[{'Term': 'Human betaherpesvirus 5[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Human betaherpesvirus 5[All Names],,,Human betaherpesvirus 5
+1,1,0,['45589'],[],"[{'Term': 'Scheffersomyces shehatae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Scheffersomyces shehatae[All Names],,,Scheffersomyces shehatae
+1,1,0,['5597'],[],"[{'Term': 'Scedosporium boydii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Scedosporium boydii[All Names],,,Scedosporium boydii
+1,1,0,['4472'],[],"[{'Term': 'Lemna minor[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lemna minor[All Names],,,Lemna minor
+1,1,0,['62759'],[],"[{'Term': 'Agrostis stolonifera var. palustris[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Agrostis stolonifera var. palustris[All Names],,,Agrostis stolonifera var. palustris
+1,1,0,['5270'],[],"[{'Term': 'Ustilago maydis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Ustilago maydis[All Names],,,Ustilago maydis
+1,1,0,['4787'],[],"[{'Term': 'Phytophthora infestans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Phytophthora infestans[All Names],,,Phytophthora infestans
+1,1,0,['318829'],[],"[{'Term': 'Pyricularia oryzae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pyricularia oryzae[All Names],,,Pyricularia oryzae
+1,1,0,['1047171'],[],"[{'Term': 'Zymoseptoria tritici[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Zymoseptoria tritici[All Names],,,Zymoseptoria tritici
+1,1,0,['13684'],[],"[{'Term': 'Parastagonospora nodorum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Parastagonospora nodorum[All Names],,,Parastagonospora nodorum
+1,1,0,['27348'],[],"[{'Term': 'Puccinia recondita[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Puccinia recondita[All Names],,,Puccinia recondita
+1,1,0,['62690'],[],"[{'Term': 'Blumeria graminis f. sp. tritici[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Blumeria graminis f. sp. tritici[All Names],,,Blumeria graminis f. sp. tritici
+1,1,0,['838'],[],"[{'Term': 'Prevotella[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Prevotella[All Names],,,Prevotella
+1,1,0,['2096'],[],"[{'Term': 'Mycoplasmoides gallisepticum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycoplasmoides gallisepticum[All Names],,,Mycoplasmoides gallisepticum
+1,1,0,['539'],[],"[{'Term': 'eikenella corrodens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",eikenella corrodens[All Names],,,Eikenella corrodens
+1,1,0,['306'],[],"[{'Term': 'Pseudomonas sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pseudomonas sp.[All Names],,,Pseudomonas sp.
+1,1,0,['28141'],[],"[{'Term': 'Cronobacter sakazakii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cronobacter sakazakii[All Names],,,Cronobacter sakazakii
+1,1,0,['46126'],[],"[{'Term': 'Staphylococcus chromogenes[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus chromogenes[All Names],,,Staphylococcus chromogenes
+1,1,0,['61647'],[],"[{'Term': 'Pluralibacter gergoviae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pluralibacter gergoviae[All Names],,,Pluralibacter gergoviae
+1,1,0,['6239'],[],"[{'Term': 'caenorhabditis elegans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",caenorhabditis elegans[All Names],,,Caenorhabditis elegans
+1,1,0,['47917'],[],"[{'Term': 'Serratia fonticola[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Serratia fonticola[All Names],,,Serratia fonticola
+0,0,0,[],[],,(Pseudomonas stutzeri[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Pseudomonas', 'stutzeri']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Pseudomonas stutzeri
+1,1,0,['202950'],[],"[{'Term': 'Acinetobacter baylyi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Acinetobacter baylyi[All Names],,,Acinetobacter baylyi
+1,1,0,['656'],[],"[{'Term': 'Aeromonas allosaccharophila[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aeromonas allosaccharophila[All Names],,,Aeromonas allosaccharophila
+1,1,0,['1243'],[],"[{'Term': 'Leuconostoc[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Leuconostoc[All Names],,,Leuconostoc
+0,0,0,[],[],,(Rhodococcus sp.[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Rhodococcus', 'sp.']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Rhodococcus sp.
+1,1,0,['1824'],[],"[{'Term': 'nocardia asteroides[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",nocardia asteroides[All Names],,,Nocardia asteroides
+1,1,0,['561307'],[],"[{'Term': 'Staphylococcus aureus subsp. aureus RN4220[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus aureus subsp. aureus RN4220[All Names],,,Staphylococcus aureus subsp. aureus RN4220
+1,1,0,['29442'],[],"[{'Term': 'Pseudomonas tolaasii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pseudomonas tolaasii[All Names],,,Pseudomonas tolaasii
+1,1,0,['384602'],[],"[{'Term': 'Micrococcus flavus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Micrococcus flavus[All Names],,,Micrococcus flavus
+1,1,0,['360920'],[],"[{'Term': 'Pseudomonas savastanoi pv. savastanoi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pseudomonas savastanoi pv. savastanoi[All Names],,,Pseudomonas savastanoi pv. savastanoi
+1,1,0,['1422'],[],"[{'Term': 'Geobacillus stearothermophilus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Geobacillus stearothermophilus[All Names],,,Geobacillus stearothermophilus
+1,1,0,['67780'],[],"[{'Term': 'edwardsiella ictaluri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",edwardsiella ictaluri[All Names],,,Edwardsiella ictaluri
+1,1,0,['57493'],[],"[{'Term': 'Kocuria[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Kocuria[All Names],,,Kocuria
+1,1,0,['1405'],[],"[{'Term': 'Bacillus mycoides[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacillus mycoides[All Names],,,Bacillus mycoides
+1,1,0,['339'],[],"[{'Term': 'xanthomonas campestris[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",xanthomonas campestris[All Names],,,Xanthomonas campestris
+0,0,0,[],[],,Chlorella[All Names] AND fusca[All Names],"{'FieldNotFound': [], 'PhraseNotFound': ['fusca']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",[Chlorella] fusca
+1,1,0,['552'],[],"[{'Term': 'Erwinia amylovora[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Erwinia amylovora[All Names],,,Erwinia amylovora
+1,1,0,['254758'],[],"[{'Term': 'Siminovitchia fortis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Siminovitchia fortis[All Names],,,Siminovitchia fortis
+1,1,0,['189290'],[],"[{'Term': 'Meloidogyne[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Meloidogyne[All Names],,,Meloidogyne
+1,1,0,['1883'],[],"[{'Term': 'Streptomyces[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptomyces[All Names],,,Streptomyces
+1,1,0,['1934'],[],"[{'Term': 'Streptomyces thermovulgaris[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptomyces thermovulgaris[All Names],,,Streptomyces thermovulgaris
+1,1,0,['34393'],[],"[{'Term': 'Microsporum audouinii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Microsporum audouinii[All Names],,,Microsporum audouinii
+1,1,0,['614'],[],"[{'Term': 'Serratia liquefaciens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Serratia liquefaciens[All Names],,,Serratia liquefaciens
+0,0,0,[],[],,(Pseudomonas oleovorans[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Pseudomonas', 'oleovorans']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Pseudomonas oleovorans
+1,1,0,['1648'],[],"[{'Term': 'Erysipelothrix rhusiopathiae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Erysipelothrix rhusiopathiae[All Names],,,Erysipelothrix rhusiopathiae
+1,1,0,['396024'],[],"[{'Term': 'Aspergillus ruber[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aspergillus ruber[All Names],,,Aspergillus ruber
+1,1,0,['64633'],[],"[{'Term': 'Mycotypha microspora[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycotypha microspora[All Names],,,Mycotypha microspora
+1,1,0,['4754'],[],"[{'Term': 'pneumocystis carinii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",pneumocystis carinii[All Names],,,Pneumocystis carinii
+1,1,0,['647'],[],"[{'Term': 'Aeromonas sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aeromonas sp.[All Names],,,Aeromonas sp.
+1,1,0,['196'],[],"[{'Term': 'campylobacter fetus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",campylobacter fetus[All Names],,,Campylobacter fetus
+1,1,0,['1697'],[],"[{'Term': 'Corynebacterium ammoniagenes[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Corynebacterium ammoniagenes[All Names],,,Corynebacterium ammoniagenes
+1,1,0,['5078'],[],"[{'Term': 'Penicillium griseofulvum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Penicillium griseofulvum[All Names],,,Penicillium griseofulvum
+1,1,0,['5544'],[],"[{'Term': 'Trichoderma harzianum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichoderma harzianum[All Names],,,Trichoderma harzianum
+1,1,0,['72570'],[],"[{'Term': 'Actinomadura sp. R39[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Actinomadura sp. R39[All Names],,,Actinomadura sp. R39
+1,1,0,['2748'],[],"[{'Term': 'Carnobacterium divergens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Carnobacterium divergens[All Names],,,Carnobacterium divergens
+1,1,0,['27334'],[],"[{'Term': 'Penicillium expansum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Penicillium expansum[All Names],,,Penicillium expansum
+1,1,0,['108619'],[],"[{'Term': 'Salmonella newport[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Salmonella newport[All Names],,,Salmonella newport
+0,0,0,[],[],,Streptococcus pneumoniae[All Names] AND (strain ATCC BAA-255/R6[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'ATCC', 'BAA-255', 'R6']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Streptococcus pneumoniae (strain ATCC BAA-255 / R6)
+1,1,0,['1310'],[],"[{'Term': 'streptococcus sobrinus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",streptococcus sobrinus[All Names],,,Streptococcus sobrinus
+1,1,0,['53707'],[],"[{'Term': 'Pseudomonas amygdali pv. lachrymans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pseudomonas amygdali pv. lachrymans[All Names],,,Pseudomonas amygdali pv. lachrymans
+1,1,0,['56460'],[],"[{'Term': 'Xanthomonas vesicatoria[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Xanthomonas vesicatoria[All Names],,,Xanthomonas vesicatoria
+1,1,0,['1582'],[],"[{'Term': 'lactobacillus casei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",lactobacillus casei[All Names],,,Lactobacillus casei
+1,1,0,['559292'],[],"[{'Term': 'Saccharomyces cerevisiae S288c[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Saccharomyces cerevisiae S288c[All Names],,,Saccharomyces cerevisiae S288c
+1,1,0,['5839'],[],"[{'Term': 'Plasmodium falciparum K1[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Plasmodium falciparum K1[All Names],,,Plasmodium falciparum K1
+0,0,0,[],[],,Lactococcus lactis subsp. lactis[All Names] AND (strain IL1403[All Names]) AND (Streptococcuslactis[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'IL1403', 'Streptococcuslactis']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Lactococcus lactis subsp. lactis (strain IL1403) (Streptococcuslactis)
+1,1,0,['5823'],[],"[{'Term': 'Plasmodium berghei str. ANKA[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Plasmodium berghei str. ANKA[All Names],,,Plasmodium berghei str. ANKA
+1,1,0,['9031'],[],"[{'Term': 'Gallus gallus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Gallus gallus[All Names],,,Gallus gallus
+1,1,0,['5807'],[],"[{'Term': 'cryptosporidium parvum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",cryptosporidium parvum[All Names],,,Cryptosporidium parvum
+1,1,0,['33632'],[],"[{'Term': 'Babesia gibsoni[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Babesia gibsoni[All Names],,,Babesia gibsoni
+1,1,0,['5665'],[],"[{'Term': 'leishmania mexicana[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",leishmania mexicana[All Names],,,Leishmania mexicana
+1,1,0,['11520'],[],"[{'Term': 'influenza b virus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",influenza b virus[All Names],,,Influenza B virus
+1,1,0,['11276'],[],"[{'Term': 'vesicular stomatitis virus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",vesicular stomatitis virus[All Names],,,Vesicular stomatitis virus
+1,1,0,['12073'],[],"[{'Term': 'Coxsackievirus B4[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Coxsackievirus B4[All Names],,,Coxsackievirus B4
+1,1,0,['11216'],[],"[{'Term': 'Human respirovirus 3[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Human respirovirus 3[All Names],,,Human respirovirus 3
+1,1,0,['538120'],[],"[{'Term': 'Mammalian orthoreovirus 1[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mammalian orthoreovirus 1[All Names],,,Mammalian orthoreovirus 1
+1,1,0,['11034'],[],"[{'Term': 'sindbis virus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",sindbis virus[All Names],,,Sindbis virus
+1,1,0,['11587'],[],"[{'Term': 'Punta Toro virus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Punta Toro virus[All Names],,,Punta Toro virus
+1,1,0,['11089'],[],"[{'Term': 'yellow fever virus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",yellow fever virus[All Names],,,Yellow fever virus
+1,1,0,['12814'],[],"[{'Term': 'respiratory syncytial virus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",respiratory syncytial virus[All Names],,,Respiratory syncytial virus
+1,1,0,['5664'],[],"[{'Term': 'leishmania major[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",leishmania major[All Names],,,Leishmania major
+1,1,0,['42068'],[],"[{'Term': 'Pneumocystis jirovecii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pneumocystis jirovecii[All Names],,,Pneumocystis jirovecii
+1,1,0,['4513'],[],"[{'Term': 'hordeum vulgare[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",hordeum vulgare[All Names],,,Hordeum vulgare
+1,1,0,['870730'],[],"[{'Term': 'Ogataea angusta[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Ogataea angusta[All Names],,,Ogataea angusta
+0,0,0,[],[],,Trypanosoma brucei brucei[All Names] AND (strain 927/4 GUTat10.1[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', '927', '4', 'GUTat10.1']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Trypanosoma brucei brucei (strain 927/4 GUTat10.1)
+1,1,0,['5455'],[],"[{'Term': 'Colletotrichum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Colletotrichum[All Names],,,Colletotrichum
+1,1,0,['33196'],[],"[{'Term': 'Botrytis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Botrytis[All Names],,,Botrytis
+1,1,0,['64631'],[],"[{'Term': 'Benjaminiella poitrasii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Benjaminiella poitrasii[All Names],,,Benjaminiella poitrasii
+1,1,0,['33959'],[],"[{'Term': 'Lactobacillus johnsonii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lactobacillus johnsonii[All Names],,,Lactobacillus johnsonii
+1,1,0,['5547'],[],"[{'Term': 'Trichoderma viride[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichoderma viride[All Names],,,Trichoderma viride
+1,1,0,['1698'],[],"[{'Term': 'Brevibacterium epidermidis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Brevibacterium epidermidis[All Names],,,Brevibacterium epidermidis
+1,1,0,['36740'],[],"[{'Term': 'Dermabacter hominis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Dermabacter hominis[All Names],,,Dermabacter hominis
+1,1,0,['662'],[],"[{'Term': 'Vibrio[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Vibrio[All Names],,,Vibrio
+0,0,0,[],[],,Helicobacter pylori[All Names] AND (strain ATCC 700392/26695[All Names]) AND (Campylobacterpylori[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'ATCC', '700392', '26695', 'Campylobacterpylori']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori)
+1,1,0,['553611'],[],"[{'Term': 'Photobacterium leiognathi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Photobacterium leiognathi[All Names],,,Photobacterium leiognathi
+1,1,0,['9611'],[],"[{'Term': 'canis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",canis[All Names],"{'FieldNotFound': [], 'PhraseNotFound': ['Nocardia']}",,Nocardia canis
+1,1,0,['487889'],[],"[{'Term': 'Xanthomonas euvesicatoria pv. sesami[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Xanthomonas euvesicatoria pv. sesami[All Names],,,Xanthomonas euvesicatoria pv. sesami
+1,1,0,['33069'],[],"[{'Term': 'Pseudomonas viridiflava[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pseudomonas viridiflava[All Names],,,Pseudomonas viridiflava
+1,1,0,['1464'],[],"[{'Term': 'Paenibacillus larvae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Paenibacillus larvae[All Names],,,Paenibacillus larvae
+1,1,0,['29379'],[],"[{'Term': 'Staphylococcus auricularis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Staphylococcus auricularis[All Names],,,Staphylococcus auricularis
+1,1,0,['724'],[],"[{'Term': 'Haemophilus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Haemophilus[All Names],,,Haemophilus
+1,1,0,['5722'],[],"[{'Term': 'trichomonas vaginalis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",trichomonas vaginalis[All Names],,,Trichomonas vaginalis
+1,1,0,['5671'],[],"[{'Term': 'leishmania infantum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",leishmania infantum[All Names],,,Leishmania infantum
+1,1,0,['5659'],[],"[{'Term': 'Leishmania amazonensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Leishmania amazonensis[All Names],,,Leishmania amazonensis
+1,1,0,['316'],[],"[{'Term': 'Stutzerimonas stutzeri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Stutzerimonas stutzeri[All Names],,,Stutzerimonas stutzeri
+1,1,0,['1776'],[],"[{'Term': 'Mycolicibacterium flavescens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycolicibacterium flavescens[All Names],,,Mycolicibacterium flavescens
+0,0,0,[],[],,(Escherichia coli O127[All Names] AND H6[All Names]) AND (strain E2348/69/EPEC[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Escherichia', 'coli', 'O127', 'H6', 'strain', 'E2348', '69', 'EPEC']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Escherichia coli O127:H6 (strain E2348/69 / EPEC)
+1,1,0,['126385'],[],"[{'Term': 'Providencia alcalifaciens[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Providencia alcalifaciens[All Names],,,Providencia alcalifaciens
+1,1,0,['1427'],[],"[{'Term': 'Bacillus thermoproteolyticus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Bacillus thermoproteolyticus[All Names],,,Bacillus thermoproteolyticus
+1,1,0,['671'],[],"[{'Term': 'Vibrio proteolyticus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Vibrio proteolyticus[All Names],,,Vibrio proteolyticus
+1,1,0,['11709'],[],"[{'Term': 'human immunodeficiency virus 2[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",human immunodeficiency virus 2[All Names],,,Human immunodeficiency virus 2
+1,1,0,['2148'],[],"[{'Term': 'acholeplasma laidlawii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",acholeplasma laidlawii[All Names],,,Acholeplasma laidlawii
+1,1,0,['519353'],[],"[{'Term': 'Echinococcus equinus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Echinococcus equinus[All Names],,,Echinococcus equinus
+1,1,0,['2315449'],[],"[{'Term': 'Yamadazyma tenuis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Yamadazyma tenuis[All Names],,,Yamadazyma tenuis
+0,0,0,[],[],,Staphylococcus aureus[All Names] AND (strain Mu50/ATCC 700699[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'Mu50', 'ATCC', '700699']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Staphylococcus aureus (strain Mu50 / ATCC 700699)
+1,1,0,['1584'],[],"[{'Term': 'Lactobacillus delbrueckii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lactobacillus delbrueckii[All Names],,,Lactobacillus delbrueckii
+1,1,0,['1597'],[],"[{'Term': 'Lacticaseibacillus paracasei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lacticaseibacillus paracasei[All Names],,,Lacticaseibacillus paracasei
+1,1,0,['357276'],[],"[{'Term': 'Phocaeicola dorei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Phocaeicola dorei[All Names],,,Phocaeicola dorei
+1,1,0,['1596'],[],"[{'Term': 'Lactobacillus gasseri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lactobacillus gasseri[All Names],,,Lactobacillus gasseri
+1,1,0,['9685'],[],"[{'Term': 'felis catus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",felis catus[All Names],,,Felis catus
+0,0,0,[],[],,Haemophilus influenzae[All Names] AND (strain ATCC 51907/DSM 11121/KW20/Rd[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'ATCC', '51907', 'DSM', '11121', 'KW20', 'Rd']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)
+1,1,0,['6183'],[],"[{'Term': 'schistosoma mansoni[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",schistosoma mansoni[All Names],,,Schistosoma mansoni
+1,1,0,['34387'],[],"[{'Term': 'Trichophyton tonsurans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichophyton tonsurans[All Names],,,Trichophyton tonsurans
+1,1,0,['34392'],[],"[{'Term': 'Microsporum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Microsporum[All Names],,,Microsporum
+1,1,0,['63400'],[],"[{'Term': 'Trichophyton benhamiae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichophyton benhamiae[All Names],,,Trichophyton benhamiae
+1,1,0,['669'],[],"[{'Term': 'Vibrio harveyi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Vibrio harveyi[All Names],,,Vibrio harveyi
+0,0,0,[],[],,Escherichia coli[All Names] AND (strain SMS-3-5/SECEC[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'SMS-3-5', 'SECEC']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Escherichia coli (strain SMS-3-5 / SECEC)
+1,1,0,['5065'],[],"[{'Term': 'Aspergillus sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aspergillus sp.[All Names],,,Aspergillus sp.
+1,1,0,['182092'],[],"[{'Term': 'Botrytis fabae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Botrytis fabae[All Names],,,Botrytis fabae
+1,1,0,['5479'],[],"[{'Term': 'Candida maltosa[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Candida maltosa[All Names],,,Candida maltosa
+1,1,0,['63402'],[],"[{'Term': 'Nannizzia gypsea[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Nannizzia gypsea[All Names],,,Nannizzia gypsea
+1,1,0,['34391'],[],"[{'Term': 'Epidermophyton floccosum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Epidermophyton floccosum[All Names],,,Epidermophyton floccosum
+1,1,0,['101480'],[],"[{'Term': 'Trichophyton interdigitale[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichophyton interdigitale[All Names],,,Trichophyton interdigitale
+1,1,0,['29917'],[],"[{'Term': 'Cladosporium cladosporioides[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cladosporium cladosporioides[All Names],,,Cladosporium cladosporioides
+1,1,0,['29918'],[],"[{'Term': 'Cladosporium herbarum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cladosporium herbarum[All Names],,,Cladosporium herbarum
+1,1,0,['1969'],[],"[{'Term': 'Streptomyces chartreusis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Streptomyces chartreusis[All Names],,,Streptomyces chartreusis
+1,1,0,['4839'],[],"[{'Term': 'Rhizomucor miehei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Rhizomucor miehei[All Names],,,Rhizomucor miehei
+1,1,0,['48100'],[],"[{'Term': 'Alternaria solani[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Alternaria solani[All Names],,,Alternaria solani
+1,1,0,['64187'],[],"[{'Term': 'Xanthomonas oryzae pv. oryzae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Xanthomonas oryzae pv. oryzae[All Names],,,Xanthomonas oryzae pv. oryzae
+1,1,0,['28171'],[],"[{'Term': 'Vibrio aestuarianus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Vibrio aestuarianus[All Names],,,Vibrio aestuarianus
+1,1,0,['45133'],[],"[{'Term': 'Lasiodiplodia theobromae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lasiodiplodia theobromae[All Names],,,Lasiodiplodia theobromae
+1,1,0,['293'],[],"[{'Term': 'Brevundimonas diminuta[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Brevundimonas diminuta[All Names],,,Brevundimonas diminuta
+1,1,0,['528'],[],"[{'Term': 'Ochrobactrum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Ochrobactrum[All Names],,,Ochrobactrum
+1,1,0,['59814'],[],"[{'Term': 'Pantoea dispersa[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pantoea dispersa[All Names],,,Pantoea dispersa
+1,1,0,['12071'],[],"[{'Term': 'Coxsackievirus B1[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Coxsackievirus B1[All Names],,,Coxsackievirus B1
+1,1,0,['61366'],[],"[{'Term': 'Fusarium oxysporum f. sp. cubense[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusarium oxysporum f. sp. cubense[All Names],,,Fusarium oxysporum f. sp. cubense
+1,1,0,['570156'],[],"[{'Term': 'Pseudoalteromonas lipolytica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pseudoalteromonas lipolytica[All Names],,,Pseudoalteromonas lipolytica
+1,1,0,['107327'],[],"[{'Term': 'Pseudoalteromonas ulvae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pseudoalteromonas ulvae[All Names],,,Pseudoalteromonas ulvae
+0,0,0,[],[],,(Paracoccus sp.[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Paracoccus', 'sp.']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Paracoccus sp.
+0,0,0,[],[],,(Rhodococcus fascians[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Rhodococcus', 'fascians']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Rhodococcus fascians
+1,1,0,['36015'],[],"[{'Term': 'Pichia kluyveri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pichia kluyveri[All Names],,,Pichia kluyveri
+1,1,0,['13689'],[],"[{'Term': 'Sphingomonas paucimobilis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Sphingomonas paucimobilis[All Names],,,Sphingomonas paucimobilis
+1,1,0,['7111'],[],"[{'Term': 'Trichoplusia ni[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichoplusia ni[All Names],,,Trichoplusia ni
+1,1,0,['65603'],[],"[{'Term': 'Setaria cervi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Setaria cervi[All Names],,,Setaria cervi
+1,1,0,['6287'],[],"[{'Term': 'dirofilaria immitis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",dirofilaria immitis[All Names],,,Dirofilaria immitis
+1,1,0,['7955'],[],"[{'Term': 'danio rerio[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",danio rerio[All Names],,,Danio rerio
+1,1,0,['482'],[],"[{'Term': 'Neisseria[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Neisseria[All Names],,,Neisseria
+1,1,0,['74035'],[],"[{'Term': 'Arthroderma uncinatum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Arthroderma uncinatum[All Names],,,Arthroderma uncinatum
+1,1,0,['119676'],[],"[{'Term': 'Nannizzia nana[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Nannizzia nana[All Names],,,Nannizzia nana
+1,1,0,['1592208'],[],"[{'Term': 'Paraphyton cookei[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Paraphyton cookei[All Names],,,Paraphyton cookei
+1,1,0,['1275'],[],"[{'Term': 'Kocuria rosea[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Kocuria rosea[All Names],,,Kocuria rosea
+1,1,0,['4930'],[],"[{'Term': 'Saccharomyces[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Saccharomyces[All Names],,,Saccharomyces
+1,1,0,['279139'],[],"[{'Term': 'Trichophyton tonsurans var. sulfureum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichophyton tonsurans var. sulfureum[All Names],,,Trichophyton tonsurans var. sulfureum
+1,1,0,['40296'],[],"[{'Term': 'Penicillium italicum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Penicillium italicum[All Names],,,Penicillium italicum
+1,1,0,['13706'],[],"[{'Term': 'Syncephalastrum racemosum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Syncephalastrum racemosum[All Names],,,Syncephalastrum racemosum
+1,1,0,['319'],[],"[{'Term': 'Pseudomonas savastanoi pv. phaseolicola[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pseudomonas savastanoi pv. phaseolicola[All Names],,,Pseudomonas savastanoi pv. phaseolicola
+1,1,0,['382'],[],"[{'Term': 'sinorhizobium meliloti[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",sinorhizobium meliloti[All Names],,,Sinorhizobium meliloti
+1,1,0,['1398'],[],"[{'Term': 'Heyndrickxia coagulans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Heyndrickxia coagulans[All Names],,,Heyndrickxia coagulans
+1,1,0,['40374'],[],"[{'Term': 'Scopulariopsis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Scopulariopsis[All Names],,,Scopulariopsis
+1,1,0,['36483'],[],"[{'Term': 'Cricetinae gen. sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cricetinae gen. sp.[All Names],,,Cricetinae gen. sp.
+1,1,0,['63405'],[],"[{'Term': 'Microsporum canis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Microsporum canis[All Names],,,Microsporum canis
+1,1,0,['39412'],[],"[{'Term': 'Phialophora verrucosa[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Phialophora verrucosa[All Names],,,Phialophora verrucosa
+1,1,0,['4769'],[],"[{'Term': 'Saprolegnia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Saprolegnia[All Names],,,Saprolegnia
+1,1,0,['5037'],[],"[{'Term': 'histoplasma capsulatum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",histoplasma capsulatum[All Names],,,Histoplasma capsulatum
+1,1,0,['56406'],[],"[{'Term': 'Hanseniaspora guilliermondii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Hanseniaspora guilliermondii[All Names],,,Hanseniaspora guilliermondii
+0,0,0,[],[],,Candida[All Names] AND sake[All Names],"{'FieldNotFound': [], 'PhraseNotFound': ['sake']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",[Candida] sake
+1,1,0,['5825'],[],"[{'Term': 'plasmodium chabaudi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",plasmodium chabaudi[All Names],,,Plasmodium chabaudi
+1,1,0,['668'],[],"[{'Term': 'Aliivibrio fischeri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aliivibrio fischeri[All Names],,,Aliivibrio fischeri
+0,0,0,[],[],,(Rhodococcus corynebacterioides[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Rhodococcus', 'corynebacterioides']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Rhodococcus corynebacterioides
+1,1,0,['5067'],[],"[{'Term': 'Aspergillus parasiticus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aspergillus parasiticus[All Names],,,Aspergillus parasiticus
+1,1,0,['36043'],[],"[{'Term': 'Lipomyces lipofer[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Lipomyces lipofer[All Names],,,Lipomyces lipofer
+0,0,0,[],[],,Neosartorya fumigata[All Names] AND (strain ATCC MYA-4609/Af293/CBS 101355/FGSCA1100[All Names]) AND (Aspergillus fumigatus[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'ATCC', 'MYA-4609', 'Af293', 'CBS', '101355', 'FGSCA1100']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSCA1100) (Aspergillus fumigatus)
+0,0,0,[],[],,Candida albicans[All Names] AND (strain WO-1[All Names]) AND (Yeast[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'WO', '1', 'WO-1', 'Yeast']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Candida albicans (strain WO-1) (Yeast)
+0,0,0,[],[],,Candida dubliniensis[All Names] AND (strain CD36/CBS 7987/NCPF 3949/NRRLY-17841[All Names]) AND (Yeast[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'CD36', 'CBS', '7987', 'NCPF', '3949', 'NRRLY', '17841', 'NRRLY-17841', 'Yeast']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Candida dubliniensis (strain CD36 / CBS 7987 / NCPF 3949 / NRRLY-17841) (Yeast)
+1,1,0,['5467'],[],"[{'Term': 'Colletotrichum truncatum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Colletotrichum truncatum[All Names],,,Colletotrichum truncatum
+1,1,0,['65070'],[],"[{'Term': 'Pythium aphanidermatum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pythium aphanidermatum[All Names],,,Pythium aphanidermatum
+1,1,0,['446639'],[],"[{'Term': 'Trichophyton longifusum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichophyton longifusum[All Names],,,Trichophyton longifusum
+1,1,0,['105351'],[],"[{'Term': 'Aspergillus awamori[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aspergillus awamori[All Names],,,Aspergillus awamori
+1,1,0,['5098'],[],"[{'Term': 'monascus purpureus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",monascus purpureus[All Names],,,Monascus purpureus
+1,1,0,['44271'],[],"[{'Term': 'Leishmania chagasi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Leishmania chagasi[All Names],,,Leishmania chagasi
+1,1,0,['4841'],[],"[{'Term': 'Mucor racemosus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mucor racemosus[All Names],,,Mucor racemosus
+1,1,0,['10095'],[],"[{'Term': 'Mus sp.[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mus sp.[All Names],,,Mus sp.
+1,1,0,['5553'],[],"[{'Term': 'Trichosporon beigelii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichosporon beigelii[All Names],,,Trichosporon beigelii
+1,1,0,['34388'],[],"[{'Term': 'Trichophyton violaceum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichophyton violaceum[All Names],,,Trichophyton violaceum
+1,1,0,['5501'],[],"[{'Term': 'coccidioides immitis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",coccidioides immitis[All Names],,,Coccidioides immitis
+1,1,0,['5062'],[],"[{'Term': 'aspergillus oryzae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",aspergillus oryzae[All Names],,,Aspergillus oryzae
+1,1,0,['86057'],[],"[{'Term': 'Fonsecaea compacta[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fonsecaea compacta[All Names],,,Fonsecaea compacta
+0,0,0,[],[],,Candida[All Names] AND palmioleophila[All Names],"{'FieldNotFound': [], 'PhraseNotFound': ['palmioleophila']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",[Candida] palmioleophila
+1,1,0,['82519'],[],"[{'Term': 'Apiotrichum loubieri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Apiotrichum loubieri[All Names],,,Apiotrichum loubieri
+1,1,0,['82522'],[],"[{'Term': 'Cutaneotrichosporon mucoides[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cutaneotrichosporon mucoides[All Names],,,Cutaneotrichosporon mucoides
+1,1,0,['45594'],[],"[{'Term': 'Starmerella stellata[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Starmerella stellata[All Names],,,Starmerella stellata
+1,1,0,['29833'],[],"[{'Term': 'Hanseniaspora uvarum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Hanseniaspora uvarum[All Names],,,Hanseniaspora uvarum
+1,1,0,['5533'],[],"[{'Term': 'Rhodotorula[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Rhodotorula[All Names],,,Rhodotorula
+1,1,0,['4943'],[],"[{'Term': 'Saccharomycopsis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Saccharomycopsis[All Names],,,Saccharomycopsis
+1,1,0,['29907'],[],"[{'Term': 'Sporothrix[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Sporothrix[All Names],,,Sporothrix
+1,1,0,['545651'],[],"[{'Term': 'Sporothrix globosa[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Sporothrix globosa[All Names],,,Sporothrix globosa
+1,1,0,['402873'],[],"[{'Term': 'Sporothrix albicans[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Sporothrix albicans[All Names],,,Sporothrix albicans
+1,1,0,['5077'],[],"[{'Term': 'Penicillium citrinum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Penicillium citrinum[All Names],,,Penicillium citrinum
+1,1,0,['5502'],[],"[{'Term': 'Curvularia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Curvularia[All Names],,,Curvularia
+1,1,0,['55194'],[],"[{'Term': 'malassezia furfur[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",malassezia furfur[All Names],,,Malassezia furfur
+1,1,0,['5506'],[],"[{'Term': 'Fusarium[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fusarium[All Names],,,Fusarium
+1,1,0,['91928'],[],"[{'Term': 'Exophiala spinifera[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Exophiala spinifera[All Names],,,Exophiala spinifera
+0,0,0,[],[],,Candida albicans[All Names] AND (strain SC5314/ATCC MYA-2876[All Names]) AND (Yeast[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'SC5314', 'ATCC', 'MYA', '2876', 'MYA-2876', 'Yeast']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)
+1,1,0,['40559'],[],"[{'Term': 'Botrytis cinerea[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Botrytis cinerea[All Names],,,Botrytis cinerea
+0,0,0,[],[],,Candida[All Names] AND aaseri[All Names],"{'FieldNotFound': [], 'PhraseNotFound': ['aaseri']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",[Candida] aaseri
+1,1,0,['708069'],[],"[{'Term': 'Mucor fuscus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mucor fuscus[All Names],,,Mucor fuscus
+1,1,0,['12721'],[],"[{'Term': 'human immunodeficiency virus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",human immunodeficiency virus[All Names],,,Human immunodeficiency virus
+1,1,0,['92955'],[],"[{'Term': 'Goffeauzyma gastrica[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Goffeauzyma gastrica[All Names],,,Goffeauzyma gastrica
+1,1,0,['69893'],[],"[{'Term': 'Chrysosporium keratinophilum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Chrysosporium keratinophilum[All Names],,,Chrysosporium keratinophilum
+1,1,0,['87101'],[],"[{'Term': 'Pichia sporocuriosa[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pichia sporocuriosa[All Names],,,Pichia sporocuriosa
+0,0,0,[],[],,Trypanosoma cruzi[All Names] AND (strain CL Brener[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'CL', 'Brener']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Trypanosoma cruzi (strain CL Brener)
+0,0,0,[],[],,Saccharomyces cerevisiae[All Names] AND (strain ATCC 204508/S288c[All Names]) AND (Baker's yeast[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'ATCC', '204508', 'S288c']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)
+1,1,0,['77020'],[],"[{'Term': 'Malassezia pachydermatis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Malassezia pachydermatis[All Names],,,Malassezia pachydermatis
+1,1,0,['34384'],[],"[{'Term': 'Arthrodermataceae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Arthrodermataceae[All Names],,,Arthrodermataceae
+1,1,0,['63417'],[],"[{'Term': 'Trichophyton verrucosum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Trichophyton verrucosum[All Names],,,Trichophyton verrucosum
+1,1,0,['5660'],[],"[{'Term': 'leishmania braziliensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",leishmania braziliensis[All Names],,,Leishmania braziliensis
+1,1,0,['5679'],[],"[{'Term': 'Leishmania panamensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Leishmania panamensis[All Names],,,Leishmania panamensis
+0,0,0,[],[],,Trichophyton rubrum[All Names] AND (strain ATCC MYA-4607/CBS 118892[All Names]) AND (Athlete'sfoot fungus[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['strain', 'ATCC', 'MYA-4607', 'CBS', '118892', ""Athlete'sfoot"", 'fungus']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Trichophyton rubrum (strain ATCC MYA-4607 / CBS 118892) (Athlete'sfoot fungus)
+1,1,0,['121759'],[],"[{'Term': 'paracoccidioides brasiliensis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",paracoccidioides brasiliensis[All Names],,,Paracoccidioides brasiliensis
+1,1,0,['324740'],[],"[{'Term': 'Kregervanrija fluxuum[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Kregervanrija fluxuum[All Names],,,Kregervanrija fluxuum
+1,1,0,['1884637'],[],"[{'Term': 'Cryptococcus gattii species complex[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Cryptococcus gattii species complex[All Names],,,Cryptococcus gattii species complex
+1,1,0,['4751'],[],"[{'Term': 'Fungi[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Fungi[All Names],,,Fungi
+1,1,0,['1784'],[],"[{'Term': 'Mycobacterium simiae[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycobacterium simiae[All Names],,,Mycobacterium simiae
+1,1,0,['1780'],[],"[{'Term': 'Mycobacterium malmoense[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Mycobacterium malmoense[All Names],,,Mycobacterium malmoense
+1,1,0,['810'],[],"[{'Term': 'Chlamydia[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Chlamydia[All Names],,,Chlamydia
+1,1,0,['5763'],[],"[{'Term': 'naegleria fowleri[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",naegleria fowleri[All Names],,,Naegleria fowleri
+1,1,0,['186538'],[],"[{'Term': 'Zaire ebolavirus[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Zaire ebolavirus[All Names],,,Zaire ebolavirus
+1,1,0,['208964'],[],"[{'Term': 'Pseudomonas aeruginosa PAO1[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Pseudomonas aeruginosa PAO1[All Names],,,Pseudomonas aeruginosa PAO1
+0,0,0,[],[],,(Yersinia sp.[All Names]),"{'FieldNotFound': [], 'PhraseNotFound': ['Yersinia', 'sp.']}","{'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}",Yersinia sp.
+1,1,0,['654'],[],"[{'Term': 'Aeromonas veronii[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Aeromonas veronii[All Names],,,Aeromonas veronii
+1,1,0,['47312'],[],"[{'Term': 'Tsukamurella pulmonis[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",Tsukamurella pulmonis[All Names],,,Tsukamurella pulmonis
+1,1,0,['3562'],[],"[{'Term': 'spinacia oleracea[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP']",spinacia oleracea[All Names],,,Spinacia oleracea

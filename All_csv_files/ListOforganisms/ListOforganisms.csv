@@ -1,0 +1,709 @@
+target_organism
+Staphylococcus aureus
+Streptococcus pneumoniae
+Streptococcus pyogenes
+Escherichia coli
+Proteus
+Salmonella
+Klebsiella
+Pseudomonas
+Serratia
+Enterobacter
+Alcaligenes
+Neisseria perflava
+Staphylococcus
+Bacillus
+Streptococcus
+Sarcina
+Klebsiella pneumoniae
+Salmonella enterica subsp. enterica serovar Typhimurium
+Enterobacter cloacae
+Haemophilus influenzae
+Shouchella clausii
+Streptococcus sp. 'group A'
+Streptococcus sp. 'group B'
+Streptococcus viridans
+Moraxella catarrhalis
+Proteus mirabilis
+Acinetobacter baumannii
+Pseudomonas aeruginosa
+Salmonella enterica
+Pseudomonas fluorescens
+Providencia stuartii
+Prescottella equi
+Listeria monocytogenes
+Corynebacterium amycolatum
+Corynebacterium jeikeium
+Corynebacterium pseudodiphtheriticum
+Corynebacterium striatum
+Corynebacterium urealyticum
+Stenotrophomonas maltophilia
+Corynebacterium minutissimum
+Corynebacterium xerosis
+Citrobacter freundii
+Pectobacterium atrosepticum
+Streptococcus constellatus
+Streptococcus oralis
+Streptococcus intermedius
+Streptococcus mitis
+Streptococcus agalactiae
+Burkholderia cenocepacia
+Acinetobacter pittii
+Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)
+Neisseria meningitidis
+Campylobacter jejuni
+Campylobacter coli
+Chryseobacterium indologenes
+Yersinia enterocolitica
+Staphylococcus epidermidis
+Bacillus subtilis
+Bacillus cereus
+Micrococcus luteus
+Rattus norvegicus
+Bacillus spizizenii
+Aeromonas hydrophila
+Staphylococcus hominis
+Enterococcus faecalis
+Enterococcus faecium
+Severe acute respiratory syndrome coronavirus 2
+Staphylococcus lugdunensis
+Aeromonas caviae
+Staphylococcus saprophyticus
+Serratia marcescens
+Klebsiella aerogenes
+Shigella sonnei
+Klebsiella oxytoca
+Salmonella enterica subsp. enterica serovar Paratyphi A
+Shigella flexneri
+Proteus vulgaris
+Canis lupus familiaris
+Bacillus thuringiensis
+Escherichia coli K-12
+Enterococcus
+Burkholderia cepacia
+Nocardia cyriacigeorgica
+Nocardia farcinica
+Nocardia otitidiscaviarum
+Nocardia nova
+Nocardia transvalensis
+Nocardia carnea
+Nocardia brasiliensis
+Nocardia sp.
+Mycobacterium tuberculosis
+Human immunodeficiency virus 1
+Mycoplasmoides pneumoniae
+Peptoniphilus asaccharolyticus
+Peptostreptococcus anaerobius
+Finegoldia magna
+Clostridium perfringens
+Cutibacterium acnes
+Streptococcus pasteurianus
+Streptococcus equinus
+Acinetobacter
+Metamycoplasma hominis
+Ureaplasma
+Plasmodium falciparum
+Corynebacterium sp.
+Mycolicibacterium smegmatis
+Leishmania donovani
+Trypanosoma cruzi
+Trypanosoma brucei rhodesiense
+Klebsiella pneumoniae subsp. pneumoniae
+Enterobacter sp.
+Neisseria gonorrhoeae
+[Haemophilus] ducreyi
+Bacillus anthracis
+Legionella pneumophila
+Mycoplasma putrefaciens
+Dialister pneumosintes
+Dialister propionicifaciens
+Dialister invisus
+Dialister micraerophilus
+Enterococcus avium
+Chlamydia trachomatis
+Chlamydia pneumoniae
+Yersinia pestis
+Brucella abortus
+Brucella suis
+Burkholderia pseudomallei
+Mycobacteroides abscessus
+Mycobacteroides chelonae
+Mycolicibacterium peregrinum
+Mycolicibacterium fortuitum
+Mycolicibacterium mageritense
+Vibrio sp.
+Vibrio vulnificus
+Vibrio fluvialis
+Vibrio alginolyticus
+Vibrio parahaemolyticus
+Vibrio cholerae
+Plesiomonas shigelloides
+Aeromonas sobria
+Yersinia pseudotuberculosis
+Shigella dysenteriae
+Shigella boydii
+Salmonella enterica subsp. enterica serovar Typhi
+Salmonella enterica subsp. enterica serovar Enteritidis
+Enterobacteriaceae
+Coxiella burnetii
+Cavia porcellus
+Oryctolagus cuniculus
+Bos taurus
+Salmonella enterica subsp. enterica serovar Abony
+Streptococcus gordonii
+dengue virus type 2
+Aspergillus fumigatus
+Aspergillus terreus
+Aspergillus flavus
+Nakaseomyces glabratus
+Candida parapsilosis
+Absidia
+Cunninghamella
+Mucor
+Rhizomucor
+Rhizopus
+Syncephalastrum
+Candida albicans
+Candida dubliniensis
+Pichia kudriavzevii
+Candida tropicalis
+Rhizopus arrhizus
+Rhizopus microsporus var. rhizopodiformis
+Trichophyton mentagrophytes
+Clavispora lusitaniae
+Candida orthopsilosis
+Candida metapsilosis
+Neosartorya fumigata (Aspergillus fumigatus)
+Aspergillus niger
+Cryptococcus neoformans
+Rhodotorula mucilaginosa
+Trichosporon
+Zygosaccharomyces
+Kodamaea ohmeri
+Cyberlindnera saturnus
+Geotrichum
+Saccharomyces cerevisiae
+Kluyveromyces lactis
+Pichia norvegensis
+Nakaseomyces nivariensis
+Pichia fermentans
+Candida africana
+[Candida] intermedia
+[Candida] inconspicua
+Cyberlindnera jadinii
+Diutina rugosa
+Wickerhamomyces anomalus
+Debaryomyces hansenii
+Yarrowia lipolytica
+Meyerozyma caribbica
+[Candida] haemuloni
+Kluyveromyces marxianus
+Meyerozyma guilliermondii
+Fusarium sp.
+Fonsecaea pedrosoi
+Fonsecaea monophora
+Candida
+Cryptococcus gattii
+Trichosporon inkin
+Trichosporon asahii
+Geotrichum candidum
+Lichtheimia corymbifera
+Mucor hiemalis
+Lomentospora prolificans
+Scedosporium apiospermum
+Talaromyces marneffei
+Penicillium sp.
+Fusarium solani
+Fusarium oxysporum
+Sporothrix schenckii
+Curvularia lunata
+Curvularia australiensis
+Trichophyton rubrum
+Paecilomyces variotii
+[Candida] zeylanoides
+Magnusiomyces capitatus
+Cryptococcus neoformans var. neoformans
+Naganishia albida
+Rhodotorula glutinis
+Papiliotrema laurentii
+Aspergillus nidulans
+Aspergillus sydowii
+Aspergillus versicolor
+Aspergillus ochraceus
+Aspergillus
+Penicillium
+Fusarium proliferatum
+Fusarium verticillioides
+Scopulariopsis brevicaulis
+Trichoderma
+Fusarium equiseti
+Beauveria bassiana
+Alternaria alternata
+Exophiala dermatitidis
+Aureobasidium pullulans
+Cladosporium
+Cunninghamella bertholletiae
+Aspergillus tubingensis
+Candida glabrata
+Aspergillus brasiliensis
+[Candida] auris
+Staphylococcus haemolyticus
+Mycobacterium avium
+Staphylococcus capitis
+Streptococcus dysgalactiae
+Bacteria
+Listeria innocua
+Wolbachia
+Pasteurella multocida
+Priestia megaterium
+Providencia rettgeri
+Salmonella enterica subsp. enterica serovar Gallinarum
+Streptococcus suis
+Mycobacterium leprae
+Vibrio splendidus
+Vibrio anguillarum
+Salmonella enterica subsp. enterica
+Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Bordetella pertussis
+Lactococcus lactis
+Bacteroides fragilis
+Plasmodium yoelii yoelii
+Morganella morganii
+Vibrio mimicus
+Edwardsiella tarda
+Cricetulus griseus
+Bacteroides thetaiotaomicron
+Prevotella melaninogenica
+Bacteroides ovatus
+Parabacteroides distasonis
+Phocaeicola vulgatus
+Fusobacterium nucleatum
+Fusobacterium necrophorum
+Thomasclavelia ramosa
+Clostridium septicum
+Clostridium butyricum
+Clostridium sporogenes
+Anaerococcus prevotii
+Bordetella bronchiseptica
+Actinobacillus pleuropneumoniae
+Trueperella pyogenes
+Acinetobacter sp.
+Bacillus subtilis (strain 168)
+Trypanosoma brucei brucei
+Mycolicibacterium phlei
+Ralstonia solanacearum
+Erwinia
+Xanthomonas axonopodis
+Xanthomonas oryzae
+Streptococcus mutans
+Escherichia coli (strain K12)
+Mycobacterium kansasii
+Clostridium tetani
+Bacillus pumilus
+Paracoccus denitrificans
+Pseudomonas syringae
+Corynebacterium
+Aspergillus clavatus
+Bacillus sp.
+Bacillus amyloliquefaciens
+Flavobacterium columnare
+Enterococcus hirae
+Proteus hauseri
+Stachybotrys chartarum
+Penicillium chrysogenum
+Agaricus bisporus
+Shigella
+Hathewaya histolytica
+Clostridioides difficile
+Acinetobacter calcoaceticus
+Prevotella disiens
+Hoylesella loescheii
+Prevotella bivia
+Fusobacterium
+Veillonella parvula
+Peptostreptococcus
+Parvimonas micra
+Mycobacterium intracellulare
+Citrobacter koseri
+Moraxella bovis
+Helicobacter pylori
+Aggregatibacter actinomycetemcomitans
+Enterococcus sp.
+Acinetobacter calcoaceticus subsp. anitratus
+Alcaligenes faecalis
+Proteus inconstans
+Streptococcus sanguinis
+Citrobacter
+Chlorocebus sabaeus
+Mycolicibacterium vaccae
+Mycolicibacterium aurum
+Sus scrofa
+Lysinibacillus sphaericus
+Chromobacterium violaceum
+Pseudomonas putida
+Salmonella enterica subsp. enterica serovar Typhi str. CT18
+Mycobacterium tuberculosis variant microti
+Haemophilus parainfluenzae
+Klebsiella sp.
+Staphylococcus cohnii
+Staphylococcus warneri
+Streptomyces griseus
+Mycobacterium tuberculosis variant bovis
+Acinetobacter radioresistens
+Streptococcus salivarius
+Corynebacterium glutamicum
+Streptococcus sp.
+Mammaliicoccus lentus
+Staphylococcus xylosus
+Acinetobacter lwoffii
+Enterobacter hormaechei
+Citrobacter amalonaticus
+Burkholderia thailandensis
+Bacillus licheniformis
+Brevibacillus brevis
+Serratia sp.
+Staphylococcus sp.
+Salmonella enterica subsp. enterica serovar Paratyphi B
+Salmonella sp.
+Streptomyces albus
+Micrococcus
+Lederbergia lenta
+Plesiomonas
+Pasteurella sp.
+Francisella tularensis subsp. tularensis SCHU S4
+Raoultella planticola
+Acinetobacter haemolyticus
+Toxoplasma gondii
+Kocuria rhizophila
+Trypanosoma brucei gambiense
+Burkholderia multivorans
+Prevotella intermedia
+Francisella tularensis
+Rhodococcus erythropolis
+Brucella neotomae
+Mycobacterium avium complex sp.
+Enterococcus casseliflavus
+Staphylococcus carnosus
+Porphyromonas gingivalis
+Proteus sp.
+Clostridium beijerinckii
+Clostridium botulinum
+Pyricularia grisea
+Globisporangium ultimum
+Mycobacterium marinum
+Mycobacterium gordonae
+Mycobacterium
+Mycobacterium tuberculosis variant bovis BCG
+Mycobacterium xenopi
+Mycobacterium ulcerans
+Mycolicibacterium diernhoferi
+Mesocricetus auratus
+Shigella sp.
+Arthrobacter sp.
+Mycobacterium avium subsp. paratuberculosis
+Mycobacterium scrofulaceum
+Mycobacterium szulgai
+Mycobacterium smegmatis
+Mycolicibacter terrae
+Influenza A virus
+Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155)
+Mycobacterium tuberculosis H37Rv
+Simian virus 40
+Agrobacterium tumefaciens
+Pectobacterium carotovorum
+Curtobacterium flaccumfaciens
+Colletotrichum acutatum
+Electrophorus electricus
+Equus caballus
+Entamoeba histolytica
+Influenza A virus (strain A/USSR/90/1977 H1N1)
+Chikungunya virus
+Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM14847 / LMG 12228 / 1C / PRS 101 / PAO1)
+Zika virus
+Hepacivirus hominis
+Bifidobacterium bifidum
+Bifidobacterium breve
+Bifidobacterium longum
+Bifidobacterium thermophilum
+Streptomyces coelicolor
+Dickeya chrysanthemi
+Streptomyces alboniger
+Streptomyces acidiscabies
+Streptomyces scabiei
+Fusarium graminearum
+Enterococcus gallinarum
+Fusobacterium sp.
+Prevotella buccae
+Prevotella corporis
+Hoylesella oralis
+Actinomyces sp.
+Streptococcus pyogenes serotype M1
+Peptostreptococcus sp.
+Paenibacillus polymyxa
+Bacteroides uniformis
+Bacteroides caccae
+Bacteroides stercoris
+Parabacteroides merdae
+[Clostridium] innocuum
+Clostridium paraputrificum
+Clostridium tertium
+Propionibacterium
+Bacteroides sp.
+Fusobacterium mortiferum
+Fusobacterium varium
+Porphyromonas asaccharolytica
+Actinomyces israelii
+Schaalia meyeri
+Actinomyces naeslundii
+Eggerthella lenta
+Eubacterium sp.
+Clostridium novyi
+Clostridium cadaveris
+Paeniclostridium sordellii
+Paraclostridium bifermentans
+Eubacterium limosum
+Corynebacterium diphtheriae
+Streptococcus equi subsp. zooepidemicus
+Chlamydia psittaci 6BC
+Porphyromonas levii
+Anaerococcus tetradius
+Enterocloster clostridioformis
+Prevotella nigrescens
+Prevotella denticola
+Corynebacterium aurimucosum
+Corynebacterium accolens
+Corynebacterium simulans
+Streptococcus dysgalactiae subsp. equisimilis
+Porphyromonas somerae
+Anaerocolumna aminovalerica
+Clostridium malenominatum
+Lacrimispora sphenoides
+Anaerococcus vaginalis
+Veillonella
+Collinsella aerofaciens
+Lacticaseibacillus casei
+Lacticaseibacillus rhamnosus
+Lactobacillus acidophilus
+Limosilactobacillus fermentum
+Lactiplantibacillus plantarum
+Limosilactobacillus reuteri
+Capnocytophaga ochracea
+Mammaliicoccus sciuri
+Staphylococcus intermedius
+Ruminococcus sp.
+Fannyhessea vaginae
+Gardnerella vaginalis
+Mobiluncus curtisii subsp. curtisii
+Peptococcus niger
+Treponema denticola
+Actinomyces viscosus
+Lactobacillus jensenii
+Lactobacillus sp.
+Clostridium acetobutylicum
+Elizabethkingia meningoseptica
+Enterococcus durans
+Staphylococcus simulans
+Providencia sp.
+Callithrix jacchus
+Macaca mulatta
+Macaca fascicularis
+Middle East respiratory syndrome-related coronavirus (isolate UnitedKingdom/H123990006/2012) (Betacoronavirus England 1) (Humancoronavirus EMC)
+Human betaherpesvirus 5
+Scheffersomyces shehatae
+Scedosporium boydii
+Plasmodium yoelii
+Prevotella
+Mycoplasmoides gallisepticum
+Eikenella corrodens
+Pseudomonas sp.
+Cronobacter sakazakii
+Staphylococcus chromogenes
+Pluralibacter gergoviae
+Caenorhabditis elegans
+Acinetobacter baylyi
+Leuconostoc
+Rhodococcus sp.
+Nocardia asteroides
+Staphylococcus aureus subsp. aureus RN4220
+Pseudomonas tolaasii
+Micrococcus flavus
+Pseudomonas savastanoi pv. savastanoi
+Geobacillus stearothermophilus
+Edwardsiella ictaluri
+Kocuria
+Zymoseptoria tritici
+Microbotryum violaceum
+Bacillus mycoides
+Xanthomonas campestris
+Erwinia amylovora
+Siminovitchia fortis
+Meloidogyne
+Bacillus flexus
+Streptomyces thermovulgaris
+Microsporum audouinii
+Serratia liquefaciens
+Pseudomonas oleovorans
+Erysipelothrix rhusiopathiae
+Pneumocystis carinii
+Trypanosoma brucei
+Corynebacterium ammoniagenes
+Penicillium griseofulvum
+Trichoderma harzianum
+Carnobacterium divergens
+Penicillium expansum
+Streptococcus pneumoniae (strain ATCC BAA-255 / R6)
+Pseudomonas amygdali pv. lachrymans
+Xanthomonas vesicatoria
+Lactobacillus casei
+Saccharomyces cerevisiae S288c
+Plasmodium falciparum K1
+Cryptosporidium parvum
+Leishmania mexicana
+Influenza B virus
+Vesicular stomatitis virus
+Coxsackievirus B4
+Human respirovirus 3
+Mammalian orthoreovirus 1
+Sindbis virus
+Punta Toro virus
+Yellow fever virus
+Respiratory syncytial virus
+Pneumocystis jirovecii
+Leishmania major
+Ogataea angusta
+Photinus pyralis
+Benjaminiella poitrasii
+Lactobacillus johnsonii
+Brevibacterium epidermidis
+Dermabacter hominis
+Aeromonas sp.
+Vibrio
+Helicobacter pylori (strain ATCC 700392 / 26695) (Campylobacterpylori)
+Nocardia canis
+Xanthomonas euvesicatoria pv. sesami
+Pseudomonas viridiflava
+Paenibacillus larvae
+Staphylococcus auricularis
+Haemophilus
+Trichomonas vaginalis
+Leishmania infantum
+Leishmania amazonensis
+Stutzerimonas stutzeri
+Mycolicibacterium flavescens
+Escherichia coli O127:H6 (strain E2348/69 / EPEC)
+Providencia alcalifaciens
+Bacillus thermoproteolyticus
+Vibrio proteolyticus
+Human immunodeficiency virus 2
+Acholeplasma laidlawii
+Echinococcus equinus
+Yamadazyma tenuis
+Lactobacillus delbrueckii
+Lacticaseibacillus paracasei
+Phocaeicola dorei
+Lactobacillus gasseri
+Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)
+Trichophyton tonsurans
+Microsporum
+Trichophyton benhamiae
+Vibrio harveyi
+Nannizzia gypsea
+Epidermophyton floccosum
+Trichophyton interdigitale
+Cladosporium cladosporioides
+Cladosporium herbarum
+Botrytis fabae
+Alternaria solani
+Vibrio aestuarianus
+Ochrobactrum
+Pantoea dispersa
+Fusarium oxysporum f. sp. cubense
+Pseudoalteromonas lipolytica
+Pseudoalteromonas ulvae
+Paracoccus sp.
+Rhodococcus fascians
+Pichia kluyveri
+Streptococcus sobrinus
+Sphingomonas paucimobilis
+Danio rerio
+Neisseria
+Arthroderma uncinatum
+Nannizzia nana
+Paraphyton cookei
+Kocuria rosea
+Saccharomyces
+Trichophyton tonsurans var. sulfureum
+Penicillium italicum
+Syncephalastrum racemosum
+Pseudomonas savastanoi pv. phaseolicola
+Sinorhizobium meliloti
+Heyndrickxia coagulans
+Microsporum canis
+Phialophora verrucosa
+Saprolegnia
+Histoplasma capsulatum
+[Candida] sake
+Aliivibrio fischeri
+Rhodococcus corynebacterioides
+Aspergillus parasiticus
+Lipomyces lipofer
+Trichoderma viride
+Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSCA1100) (Aspergillus fumigatus)
+Candida albicans (strain WO-1) (Yeast)
+Candida dubliniensis (strain CD36 / CBS 7987 / NCPF 3949 / NRRLY-17841) (Yeast)
+Rhizoctonia solani
+Colletotrichum truncatum
+Pythium aphanidermatum
+Trichophyton longifusum
+Aspergillus awamori
+Monascus purpureus
+Leishmania chagasi
+Trichosporon beigelii
+Trichophyton violaceum
+Fonsecaea compacta
+Aspergillus sp.
+[Candida] palmioleophila
+Apiotrichum loubieri
+Cutaneotrichosporon mucoides
+Starmerella stellata
+Hanseniaspora uvarum
+Rhodotorula
+Saccharomycopsis
+Sporothrix
+Sporothrix globosa
+Sporothrix albicans
+Penicillium citrinum
+Curvularia
+Malassezia furfur
+Mucor racemosus
+Fusarium
+Exophiala spinifera
+Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)
+Botrytis cinerea
+[Candida] aaseri
+Mucor fuscus
+Human immunodeficiency virus
+Aspergillus oryzae
+Goffeauzyma gastrica
+Chrysosporium keratinophilum
+Pichia sporocuriosa
+Trypanosoma cruzi (strain CL Brener)
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)
+Malassezia pachydermatis
+Arthrodermataceae
+Trichophyton verrucosum
+Leishmania panamensis
+Trichophyton rubrum (strain ATCC MYA-4607 / CBS 118892) (Athlete'sfoot fungus)
+Paracoccidioides brasiliensis
+Kregervanrija fluxuum
+Cryptococcus gattii species complex
+Mucor circinelloides
+Mycobacterium simiae
+Mycobacterium malmoense
+Naegleria fowleri
+Zaire ebolavirus
+Salmonella newport
+Pseudomonas aeruginosa PAO1
+Yersinia sp.
+Tsukamurella pulmonis
