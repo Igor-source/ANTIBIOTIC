@@ -11,7 +11,7 @@ class CVAE():
         self.vocab_size = vocab_size
         self.batch_size = args.batch_size
         self.latent_size = args.latent_size
-        self.lr = tf.Variable(args.lr, trainable=False, dtype=tf.float32)
+        self.lr = tf.Variable(initial_value=args.lr, trainable=False, dtype=tf.float32)
         self.num_prop = args.num_prop
         self.stddev = args.stddev
         self.mean = args.mean
