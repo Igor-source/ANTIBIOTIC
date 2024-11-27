@@ -9,6 +9,11 @@ import os
 import tensorflow as tf
 import time
 import pandas as pd
+import logging
+import sys
+
+
+
 
 
 # %%
@@ -27,75 +32,14 @@ parser.add_argument('--num_prop', help='number of propertoes', type=int, default
 parser.add_argument('--save_dir', help='save dir', type=str, default='save/')
 args = parser.parse_args()
 
-# print (args)
-# #convert smiles to numpy array
-# molecules_input, molecules_output, char, vocab, labels, length = load_data(args.prop_file, args.seq_length)
-# vocab_size = len(char)
-
-# #make save_dir
-# if not os.path.isdir(args.save_dir):
-#     os.mkdir(args.save_dir)
-
-# #divide data into training and test set
-# num_train_data = int(len(molecules_input)*0.75)
-# train_molecules_input = molecules_input[0:num_train_data]
-# test_molecules_input = molecules_input[num_train_data:-1]
-
-# train_molecules_output = molecules_output[0:num_train_data]
-# test_molecules_output = molecules_output[num_train_data:-1]
-
-# train_labels = labels[0:num_train_data]
-# test_labels = labels[num_train_data:-1]
-
-# train_length = length[0:num_train_data]
-# test_length = length[num_train_data:-1]
-
-# model = CVAE(vocab_size,
-#             args
-#             )
-# print ('Number of parameters : ', np.sum([np.prod(v.shape) for v in tf.trainable_variables()]))
-
-# for epoch in range(args.num_epochs):
-
-#     st = time.time()
-#     # Learning rate scheduling 
-#     #model.assign_lr(learning_rate * (decay_rate ** epoch))
-#     train_loss = []
-#     test_loss = []
-#     st = time.time()
-    
-#     for iteration in range(len(train_molecules_input)//args.batch_size):
-#         n = np.random.randint(len(train_molecules_input), size = args.batch_size)
-#         x = np.array([train_molecules_input[i] for i in n])
-#         y = np.array([train_molecules_output[i] for i in n])
-#         l = np.array([train_length[i] for i in n])
-#         c = np.array([train_labels[i] for i in n])
-#         cost = model.train(x, y, l, c)
-#         train_loss.append(cost)
-    
-#     for iteration in range(len(test_molecules_input)//args.batch_size):
-#         n = np.random.randint(len(test_molecules_input), size = args.batch_size)
-#         x = np.array([test_molecules_input[i] for i in n])
-#         y = np.array([test_molecules_output[i] for i in n])
-#         l = np.array([test_length[i] for i in n])
-#         c = np.array([test_labels[i] for i in n])
-#         cost = model.test(x, y, l, c)
-#         test_loss.append(cost)
-    
-#     train_loss = np.mean(np.array(train_loss))        
-#     test_loss = np.mean(np.array(test_loss))    
-#     end = time.time()    
-#     if epoch==0:
-#         print ('epoch\ttrain_loss\ttest_loss\ttime (s)')
-#     print ("%s\t%.3f\t%.3f\t%.3f" %(epoch, train_loss, test_loss, end-st))
-#     ckpt_path = args.save_dir+'/model_'+str(epoch)+'.ckpt'
-#     model.save(ckpt_path, epoch)
 
 # %%
 df_1 = pd.read_csv(r'C:\Users\Igorr\Documents\ITMO5grade\Project_with_Susan\Made_code_github\Made_code\All_csv_files\Final_set.csv', index_col=False)
 df_1 = df_1.drop(columns='Unnamed: 0')
 # display(df_1)
 
+logging.info(f"DataFrame loaded: shape = {df_1.shape}")
+logging.info(f"First rows of DataFrame:\n{df_1.head()}")
 # %%
 # Имя столбца с SMILES
 smiles_col = 'canonical_smiles_x'
@@ -193,34 +137,33 @@ test_labels = props[num_train_data:]
 train_length = length[:num_train_data]
 test_length = length[num_train_data:]
 
-# %%
-# # Преобразование данных
-# molecules_input, molecules_output, chars, vocab, labels, length = load_data_from_csv(
-#     df_1, smiles_col=smiles_col, props_cols=props_cols, seq_length=seq_length
-# )
-
-
-
-# # Разделение данных
-# train_input, test_input, train_output, test_output, train_labels, test_labels, train_length, test_length = train_test_split(
-#     molecules_input, molecules_output, labels, length, test_size=0.25, random_state=42
-# )
-
 # Проверка и создание save_dir
 if not os.path.isdir(args.save_dir):
     os.mkdir(args.save_dir)
 
-# Инициализация модели
-model = CVAE(vocab_size, args)
+    def train_step(self, x, y, l, c):
+        with tf.GradientTape() as tape:
+    # Расчёт потерь
+            loss, recon_loss, latent_loss = self((x, y, c, l))
+    # Вычисление градиентов
+        grads = tape.gradient(loss, self.trainable_variables)
+    # Обновление параметров модели
+        self.optimizer.apply_gradients(zip(grads, self.trainable_variables))
+        return loss.numpy()  # Возвращаем значение потерь
 
-# print('Number of parameters:', np.sum([np.prod(v.shape) for v in tf.trainable_variables()]))
+    def test_step(self, x, y, l, c):
+        loss, _, _ = self((x, y, c, l))
+        return loss.numpy()  # Возвращаем значение потерь
+
+    # Инициализация модели
+    model = CVAE(vocab_size, args)
 
 # Цикл обучения
 for epoch in range(args.num_epochs):
     train_loss = []
     test_loss = []
     st = time.time()
-    
+
     # Обучение
     for iteration in range(len(train_input) // args.batch_size):
         n = np.random.randint(len(train_input), size=args.batch_size)
@@ -228,9 +171,9 @@ for epoch in range(args.num_epochs):
         y = np.array([train_output[i] for i in n])
         l = np.array([train_length[i] for i in n])
         c = np.array([train_labels[i] for i in n])
-        cost = model.train(x, y, l, c)
+        cost = model.train_step(x, y, l, c)
         train_loss.append(cost)
-    
+
     # Тестирование
     for iteration in range(len(test_input) // args.batch_size):
         n = np.random.randint(len(test_input), size=args.batch_size)
@@ -238,107 +181,150 @@ for epoch in range(args.num_epochs):
         y = np.array([test_output[i] for i in n])
         l = np.array([test_length[i] for i in n])
         c = np.array([test_labels[i] for i in n])
-        cost = model.test(x, y, l, c)
+        cost = model.test_step(x, y, l, c)
         test_loss.append(cost)
-    
+
+    # Вычисление средней потери
     train_loss = np.mean(train_loss)
     test_loss = np.mean(test_loss)
     end = time.time()
-    
-    # if epoch == 0:
-        # print('epoch\ttrain_loss\ttest_loss\ttime (s)')
-    # print(f"{epoch}\t{train_loss:.3f}\t{test_loss:.3f}\t{end - st:.3f}")
-    
-    # Сохранение модели
-    ckpt_path = os.path.join(args.save_dir, f'model_{epoch}.ckpt')
-    model.save(ckpt_path, epoch)
 
-# %%
-# import json
+    # Запись метрик после вычисления потерь
+    metrics_path = os.path.join(args.save_dir, 'metrics.csv')
+    if not os.path.exists(metrics_path):  # Если файл еще не создан, добавьте заголовок
+        with open(metrics_path, 'w') as f:
+            f.write("epoch,train_loss,test_loss,time\n")
+
+    with open(metrics_path, 'a') as f:
+        f.write(f"{epoch + 1},{train_loss:.4f},{test_loss:.4f},{end - st:.2f}\n")
+
+    # Логирование
+    print(f"Epoch {epoch + 1}/{args.num_epochs}: Train Loss = {train_loss:.4f}, Test Loss = {test_loss:.4f}, Time = {end - st:.2f}s")
+
+    # Сохранение модели
+    ckpt_path = os.path.join(args.save_dir, f'model_{epoch + 1}.ckpt')
+    model.save(ckpt_path)
+    print(f"Model checkpoint saved at {ckpt_path}")
+
+# # Настройка логирования
+#     log_file = os.path.join(args.save_dir, 'script.log')
+#     logging.basicConfig(
+#         level=logging.INFO,
+#         format='%(asctime)s [%(levelname)s]: %(message)s',
+#         handlers=[
+#             logging.FileHandler(log_file, mode='w'),  # Лог в файл
+#             logging.StreamHandler(sys.stdout)  # Лог в консоль
+#         ]
+#     )
+
+#     logging.info("Начало выполнения скрипта")
+
+#     logging.info(f"Epoch {epoch + 1}/{args.num_epochs}: Train Loss = {train_loss:.4f}, Test Loss = {test_loss:.4f}, Time = {end - st:.2f}s")
+
+# metrics_path = os.path.join(args.save_dir, 'metrics.csv')
+# if not os.path.exists(metrics_path):
+#     with open(metrics_path, 'w') as f:
+#         f.write("epoch,train_loss,test_loss,time\n")
+
+# # Внутри цикла обучения:
+# with open(metrics_path, 'a') as f:
+#     f.write(f"{epoch + 1},{train_loss:.4f},{test_loss:.4f},{end - st:.2f}\n")
+# logging.info(f"Metrics saved for epoch {epoch + 1} to {metrics_path}")
+
+# ckpt_path = os.path.join(args.save_dir, f'model_{epoch}.ckpt')
+# model.save(ckpt_path)
+# logging.info(f"Model checkpoint saved at {ckpt_path}")
+
+# predictions = model(test_input)  # Получить предсказания
+# predictions_path = os.path.join(args.save_dir, 'predictions.csv')
+# np.savetxt(predictions_path, predictions, delimiter=',')
+# logging.info(f"Predictions saved to {predictions_path}")
+# try:
+#     # Ваш код
+#     # Например, цикл обучения:
+#     for epoch in range(args.num_epochs):
+#     # Обучение и логирование
+#         pass
+# except Exception as e:
+#         logging.error(f"Ошибка во время выполнения: {e}", exc_info=True)
+#         sys.exit(1)
+# import logging
 # import os
 # import numpy as np
-# import tensorflow as tf
 # import time
 
-# # Загрузка конфигурации из JSON-файла
-# def load_config(config_path):
-#     with open(config_path, 'r') as file:
-#         config = json.load(file)
-#     return config
+# # Настройка логирования
+# log_file = 'save/script.log'
+# if not os.path.exists('save'):
+#     os.makedirs('save')
+# logging.basicConfig(
+#     level=logging.INFO,
+#     format='%(asctime)s [%(levelname)s]: %(message)s',
+#     handlers=[
+#         logging.FileHandler(log_file, mode='w'),
+#         logging.StreamHandler()
+#     ]
+# )
 
-# # Путь к файлу конфигурации
-# config_path = r'C:\Users\Igorr\Documents\ITMO5grade\Project_with_Susan\Made_code_github\Made_code\Learning\config_train.json'
+# logging.info("Начало выполнения скрипта")
 
-# # Загружаем параметры
-# config = load_config(config_path)
+# # Параметры
+# num_epochs = 10  # Задайте количество эпох для теста
+# batch_size = 128
+# save_dir = 'save/'
 
-# # Распаковываем параметры из конфигурации
-# batch_size = config.get('batch_size', 128)
-# latent_size = config.get('latent_size', 200)
-# unit_size = config.get('unit_size', 512)
-# n_rnn_layer = config.get('n_rnn_layer', 3)
-# seq_length = config.get('seq_length', 120)
-# prop_file = config.get('prop_file', None)
-# mean = config.get('mean', 0.0)
-# stddev = config.get('stddev', 1.0)
-# num_epochs = config.get('num_epochs', 100)
-# lr = config.get('lr', 0.0001)
-# num_prop = config.get('num_prop', 3)
-# save_dir = config.get('save_dir', 'save/')
+# # Инициализация данных (заглушка)
+# train_loss = []
+# test_loss = []
 
-# # #convert smiles to numpy array
-# # molecules_input, molecules_output, char, vocab, labels, length = load_data(prop_file, seq_length)
-# # vocab_size = len(char)
+# # Заглушка для модели (пример для теста)
+# class DummyModel:
+#     def train_step(self, x, y, l, c):
+#         return np.random.random()
 
+#     def test_step(self, x, y, l, c):
+#         return np.random.random()
 
-
-# %%
-# print(molecules_input)
-# print(molecules_output)
-# print(char)
-# print(vocab)
-
-# %%
-# def load_data_from_dataframe(df_1, seq_length):
-#     # Извлекаем SMILES строки
-#     molecules = df_1['canonical_smiles_x'].tolist()
-
-#     # Извлекаем свойства (все колонки, кроме SMILES, используются как свойства)
-#     labels = df_1.drop(columns=['canonical_smiles_x']).values
-
-#     # Извлекаем уникальные символы
-#     char = sorted(set(''.join(molecules)))
-#     vocab = {c: i for i, c in enumerate(char)}
-
-#     # Преобразование SMILES в числовые последовательности
-#     molecules_input = []
-#     molecules_output = []
-
-#     for smile in molecules:
-#         # Преобразуем SMILES в числовые индексы
-#         smile_indices = [vocab[char] for char in smile]
-
-#         # Дополняем последовательности до seq_length
-#         if len(smile_indices) < seq_length:
-#             smile_indices += [vocab[char[-1]]] * (seq_length - len(smile_indices))  # Padding
-
-#         # Разделяем input и output
-#         molecules_input.append(smile_indices[:-1])  # Без последнего символа
-#         molecules_output.append(smile_indices[1:])  # Без первого символа
-
-#     # Проверка длины всех последовательностей
-#     molecules_input = [seq[:seq_length - 1] + [vocab[char[-1]]] * (seq_length - len(seq)) for seq in molecules_input]
-#     molecules_output = [seq[:seq_length - 1] + [vocab[char[-1]]] * (seq_length - len(seq)) for seq in molecules_output]
-
-#     # Преобразуем в numpy массивы
-#     molecules_input = np.array(molecules_input)
-#     molecules_output = np.array(molecules_output)
-
-#     # Длины последовательностей
-#     length = [min(len(smile), seq_length) for smile in molecules]
-
-#     return molecules_input, molecules_output, char, vocab, labels, length
+#     def save(self, path):
+#         logging.info(f"Модель сохранена в {path}")
 
 
+# model = DummyModel()
 
+# # Цикл обучения
+# for epoch in range(num_epochs):
+#     epoch_train_loss = []
+#     epoch_test_loss = []
+#     st = time.time()
+
+#     # Обучение
+#     for _ in range(5):  # Количество шагов в эпохе
+#         cost = model.train_step(None, None, None, None)  # Заглушка
+#         epoch_train_loss.append(cost)
+
+#     # Тестирование
+#     for _ in range(5):  # Количество шагов в эпохе
+#         cost = model.test_step(None, None, None, None)  # Заглушка
+#         epoch_test_loss.append(cost)
+
+#     # Средние потери за эпоху
+#     train_loss = np.mean(epoch_train_loss)
+#     test_loss = np.mean(epoch_test_loss)
+#     end = time.time()
+
+#     # Сохранение метрик
+#     metrics_path = os.path.join(save_dir, 'metrics.csv')
+#     if not os.path.exists(metrics_path):
+#         with open(metrics_path, 'w') as f:
+#             f.write("epoch,train_loss,test_loss,time\n")
+#     with open(metrics_path, 'a') as f:
+#         f.write(f"{epoch + 1},{train_loss:.4f},{test_loss:.4f},{end - st:.2f}\n")
+
+#     logging.info(f"Epoch {epoch + 1}/{num_epochs}: Train Loss = {train_loss:.4f}, Test Loss = {test_loss:.4f}, Time = {end - st:.2f}s")
+
+#     # Сохранение модели
+#     ckpt_path = os.path.join(save_dir, f'model_{epoch + 1}.ckpt')
+#     model.save(ckpt_path)
+
+# logging.info("Обучение завершено")
 
